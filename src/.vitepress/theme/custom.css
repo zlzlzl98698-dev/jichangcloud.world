@@ -26,9 +26,24 @@
   --vp-font-family-mono: "JetBrains Mono", Menlo, Monaco, Consolas, "Courier New", monospace;
 }
 
+/* Widen document layout to give tables and data cards proper breathing room */
+@media (min-width: 960px) {
+  .VPDoc.has-aside .content-container {
+    max-width: 920px !important;
+  }
+  .VPDoc:not(.has-sidebar) .content {
+    max-width: 1080px !important;
+  }
+}
+@media (min-width: 1280px) {
+  .VPDoc.has-aside .content-container {
+    max-width: 980px !important;
+  }
+}
+
 /* Nav header refinement */
 .VPNavBar {
-  background-color: rgba(255, 255, 255, 0.9) !important;
+  background-color: rgba(255, 255, 255, 0.92) !important;
   backdrop-filter: blur(12px) !important;
   border-bottom: 1px solid var(--vp-c-border) !important;
 }
@@ -97,47 +112,167 @@
   font-size: 15px !important;
 }
 
-/* Clean white table styling */
+/* ==================== Professional Apple/Cloudflare Table System ==================== */
 .vp-doc table {
-  display: table !important;
+  display: block !important;
   width: 100% !important;
+  overflow-x: auto !important;
+  -webkit-overflow-scrolling: touch !important;
   border-collapse: separate !important;
   border-spacing: 0 !important;
   border: 1px solid #e2e8f0 !important;
-  border-radius: 8px !important;
-  overflow: hidden !important;
-  margin: 20px 0 !important;
+  border-radius: 10px !important;
+  margin: 24px 0 !important;
+  box-shadow: 0 1px 4px rgba(15, 23, 42, 0.04) !important;
 }
 
-.vp-doc th {
+.vp-doc table table {
+  display: table !important;
+}
+
+.vp-doc table th {
   background-color: #f8fafc !important;
   color: #0f172a !important;
-  font-weight: 600 !important;
+  font-weight: 700 !important;
   font-size: 13px !important;
   text-align: left !important;
-  padding: 10px 14px !important;
+  padding: 12px 14px !important;
   border-bottom: 1px solid #e2e8f0 !important;
   border-right: 1px solid #f1f5f9 !important;
+  white-space: nowrap !important;
 }
 
-.vp-doc td {
-  padding: 10px 14px !important;
+.vp-doc table td {
+  padding: 12px 14px !important;
   font-size: 13px !important;
   color: #334155 !important;
   border-bottom: 1px solid #f1f5f9 !important;
   border-right: 1px solid #f1f5f9 !important;
+  vertical-align: middle !important;
+  line-height: 1.5 !important;
 }
 
-.vp-doc tr:last-child td {
+.vp-doc table tr:last-child td {
   border-bottom: none !important;
 }
 
-.vp-doc td:last-child, .vp-doc th:last-child {
+.vp-doc table td:last-child, 
+.vp-doc table th:last-child {
   border-right: none !important;
 }
 
-.vp-doc tr:hover td {
-  background-color: #f8fafc !important;
+.vp-doc table tr:hover td {
+  background-color: #f8faff !important;
+}
+
+/* Specific column constraints to guarantee beautiful layout without word breaking */
+/* Col 1: 排名 */
+.vp-doc table th:nth-child(1),
+.vp-doc table td:nth-child(1) {
+  width: 55px !important;
+  min-width: 55px !important;
+  text-align: center !important;
+  white-space: nowrap !important;
+  font-size: 15px !important;
+}
+
+/* Col 2: 机场品牌 */
+.vp-doc table th:nth-child(2),
+.vp-doc table td:nth-child(2) {
+  min-width: 140px !important;
+  white-space: nowrap !important;
+  font-weight: 700 !important;
+  color: #0f172a !important;
+}
+
+/* Col 3: 线路与架构特点 */
+.vp-doc table th:nth-child(3),
+.vp-doc table td:nth-child(3) {
+  min-width: 150px !important;
+  white-space: normal !important;
+}
+
+/* Col 4: 入门价格与套餐 */
+.vp-doc table th:nth-child(4),
+.vp-doc table td:nth-child(4) {
+  min-width: 130px !important;
+  white-space: nowrap !important;
+}
+
+/* Col 5: 优惠码 */
+.vp-doc table th:nth-child(5),
+.vp-doc table td:nth-child(5) {
+  width: 90px !important;
+  min-width: 90px !important;
+  text-align: center !important;
+  white-space: nowrap !important;
+}
+
+/* Col 6: 核心优势与适用场景 */
+.vp-doc table th:nth-child(6),
+.vp-doc table td:nth-child(6) {
+  min-width: 240px !important;
+  white-space: normal !important;
+  line-height: 1.6 !important;
+}
+
+/* Col 7: 快捷通道 */
+.vp-doc table th:nth-child(7),
+.vp-doc table td:nth-child(7) {
+  min-width: 140px !important;
+  text-align: center !important;
+  white-space: nowrap !important;
+}
+
+/* Pill buttons inside table cells */
+.vp-doc table td a {
+  display: inline-flex !important;
+  align-items: center !important;
+  justify-content: center !important;
+  padding: 4px 10px !important;
+  border-radius: 6px !important;
+  font-size: 12px !important;
+  font-weight: 600 !important;
+  text-decoration: none !important;
+  margin: 2px 3px !important;
+  white-space: nowrap !important;
+  transition: all 0.15s ease !important;
+}
+
+.vp-doc table td a[href^="/brands/"] {
+  background: #f1f5f9 !important;
+  color: #334155 !important;
+  border: 1px solid #cbd5e1 !important;
+}
+
+.vp-doc table td a[href^="/brands/"]:hover {
+  background: #e2e8f0 !important;
+  color: #0f172a !important;
+}
+
+.vp-doc table td a[href^="http"]:not([href*="jichangcloud.world"]) {
+  background: #2563eb !important;
+  color: #ffffff !important;
+  border: 1px solid #2563eb !important;
+  box-shadow: 0 1px 2px rgba(37, 99, 235, 0.2) !important;
+}
+
+.vp-doc table td a[href^="http"]:not([href*="jichangcloud.world"]):hover {
+  background: #1d4ed8 !important;
+  transform: translateY(-1px) !important;
+}
+
+/* Coupon badge inside table */
+.vp-doc table td code {
+  background: #fffbeb !important;
+  color: #b45309 !important;
+  font-weight: 700 !important;
+  border: 1px dashed #fcd34d !important;
+  border-radius: 4px !important;
+  padding: 3px 8px !important;
+  font-size: 12px !important;
+  font-family: var(--vp-font-family-mono) !important;
+  white-space: nowrap !important;
 }
 
 /* Custom Answer-First block */
