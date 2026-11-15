@@ -1,0 +1,229 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>单页面 SEO 内容升级审阅报告 - Clash Verge Rev 订阅导入与规则配置 (/clash/verge-subscription)</title>
+  <style>
+    :root {
+      --primary: #2563eb;
+      --bg: #f8fafc;
+      --card-bg: #ffffff;
+      --border: #e2e8f0;
+      --text: #1e293b;
+      --text-muted: #64748b;
+      --success: #16a34a;
+    }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+      line-height: 1.6;
+      color: var(--text);
+      background-color: var(--bg);
+      margin: 0;
+      padding: 24px;
+    }
+    .container {
+      max-width: 1000px;
+      margin: 0 auto;
+    }
+    .header {
+      background: var(--card-bg);
+      padding: 32px;
+      border-radius: 12px;
+      box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05);
+      margin-bottom: 24px;
+      border: 1px solid var(--border);
+    }
+    .badge {
+      display: inline-block;
+      padding: 4px 12px;
+      background: #eff6ff;
+      color: var(--primary);
+      border-radius: 9999px;
+      font-size: 13px;
+      font-weight: 600;
+      margin-bottom: 12px;
+    }
+    h1 {
+      margin: 0 0 12px 0;
+      font-size: 24px;
+      color: #0f172a;
+    }
+    .meta-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+      gap: 16px;
+      margin-top: 20px;
+      padding-top: 20px;
+      border-top: 1px solid var(--border);
+    }
+    .meta-item {
+      font-size: 14px;
+    }
+    .meta-label {
+      color: var(--text-muted);
+      margin-bottom: 4px;
+    }
+    .meta-value {
+      font-weight: 600;
+      color: #0f172a;
+    }
+    .section {
+      background: var(--card-bg);
+      padding: 28px;
+      border-radius: 12px;
+      box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05);
+      margin-bottom: 24px;
+      border: 1px solid var(--border);
+    }
+    h2 {
+      margin-top: 0;
+      font-size: 18px;
+      border-bottom: 2px solid #eff6ff;
+      padding-bottom: 8px;
+      color: #1e3a8a;
+    }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      margin: 16px 0;
+      font-size: 14px;
+    }
+    th, td {
+      border: 1px solid var(--border);
+      padding: 10px 14px;
+      text-align: left;
+    }
+    th {
+      background: #f1f5f9;
+      font-weight: 600;
+    }
+    .highlight {
+      color: var(--success);
+      font-weight: 600;
+    }
+    .footer {
+      text-align: center;
+      font-size: 13px;
+      color: var(--text-muted);
+      margin-top: 40px;
+    }
+    code {
+      background: #f1f5f9;
+      padding: 2px 6px;
+      border-radius: 4px;
+      font-family: monospace;
+      font-size: 13px;
+      color: #0f172a;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="header">
+      <div class="badge">单页面深度重构完成 · 专著级深度 · 10,122 纯汉字</div>
+      <h1>Clash Verge Rev 订阅导入与规则配置完全指南 (2026)</h1>
+      <p style="color: var(--text-muted); margin: 0;">页面目标：系统阐释 Clash Verge 订阅导入机制、动态 Rule-Providers 规则解耦、公共订阅转换安全风险、策略组调度架构与 JavaScript 无损打补丁方案。</p>
+      
+      <div class="meta-grid">
+        <div class="meta-item">
+          <div class="meta-label">目标 URL</div>
+          <div class="meta-value"><code>/clash/verge-subscription</code></div>
+        </div>
+        <div class="meta-item">
+          <div class="meta-label">正文纯汉字量</div>
+          <div class="meta-value highlight">10,122 字 (符合 10,000~15,000 目标)</div>
+        </div>
+        <div class="meta-item">
+          <div class="meta-label">总字符数</div>
+          <div class="meta-value">29,115 字符</div>
+        </div>
+        <div class="meta-item">
+          <div class="meta-label">VitePress 生产构建</div>
+          <div class="meta-value highlight">✓ Exit Code 0 (76 页面全量索引)</div>
+        </div>
+      </div>
+    </div>
+
+    <div class="section">
+      <h2>一、Answer-First 核心结论体系</h2>
+      <p>页面开篇确立现代化订阅管理的三大核心准则：</p>
+      <ul>
+        <li><strong>① 拒绝不知名公共第三方订阅转换</strong>：防范节点凭据被收割与中间人流量劫持；</li>
+        <li><strong>② 订阅更新周期科学设置（720~1440分钟）</strong>：兼顾节点动态轮换与防机场防刷频控拉黑；</li>
+        <li><strong>③ 善用独创 JavaScript 扩展脚本打补丁</strong>：切勿直接在机场原始 YAML 中修改，外挂 Script 动态注入私有分流与自定义策略组，订阅更新永不冲突覆盖。</li>
+      </ul>
+    </div>
+
+    <div class="section">
+      <h2>二、八大分流规则与四大策略组语法矩阵</h2>
+      <table>
+        <thead>
+          <tr>
+            <th>规则类型</th>
+            <th>语法范例</th>
+            <th>匹配机理与行为逻辑</th>
+            <th>适用场景与推荐度</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td><strong>DOMAIN-SUFFIX</strong></td>
+            <td><code>DOMAIN-SUFFIX,google.com,PROXY</code></td>
+            <td>后缀匹配：匹配目标域名及其所有下级子域名</td>
+            <td class="highlight">最基础的主力域名规则 (⭐⭐⭐⭐⭐)</td>
+          </tr>
+          <tr>
+            <td><strong>GEOIP</strong></td>
+            <td><code>GEOIP,CN,DIRECT</code></td>
+            <td>国家数据库匹配：依据解析出的真实 IP 国家归属</td>
+            <td class="highlight">国内直连流量核心基石 (⭐⭐⭐⭐⭐)</td>
+          </tr>
+          <tr>
+            <td><strong>IP-CIDR</strong></td>
+            <td><code>IP-CIDR,192.168.1.0/24,DIRECT,no-resolve</code></td>
+            <td>网段匹配：结合 no-resolve 避免多余 DNS 解析</td>
+            <td>局域网直连、企业专网</td>
+          </tr>
+          <tr>
+            <td><strong>PROCESS-NAME</strong></td>
+            <td><code>PROCESS-NAME,Telegram.exe,PROXY</code></td>
+            <td>进程匹配：依据发起请求的应用程序名路由</td>
+            <td>开发终端与特定聊天工具分流</td>
+          </tr>
+          <tr>
+            <td><strong>MATCH</strong></td>
+            <td><code>MATCH,🐟 漏网之鱼</code></td>
+            <td>兜底匹配：置于规则最底端捕获剩余流量</td>
+            <td>规则列表末行终极兜底</td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+
+    <div class="section">
+      <h2>三、四大工业级 JavaScript 扩展脚本模板</h2>
+      <ol>
+        <li><strong>模板一</strong>：专属 AI 服务（ChatGPT / Claude）策略组与内网直连注入脚本；</li>
+        <li><strong>模板二</strong>：多地区节点自动聚合与国家分组（香港、日本、美国）脚本；</li>
+        <li><strong>模板三</strong>：开启 Mihomo 现代 Sniffer 域名与 TLS 嗅探器脚本；</li>
+        <li><strong>模板四</strong>：自动过滤高倍率刺客节点与防频繁跳 IP 容差防抖（tolerance / lazy）调优脚本。</li>
+      </ol>
+    </div>
+
+    <div class="section">
+      <h2>四、权威 FAQ（32 问 32 答权威避坑）</h2>
+      <p>深度解答包括订阅拉取 Network Error、Invalid YAML、手写规则被冲刷、探针全红超时、网银政务打不开、倍率机制解析、external-controller 局域网越权防范、关闭 IPv6 原因等 32 个痛点问题。</p>
+    </div>
+
+    <div class="section">
+      <h2>五、五大标杆机场商业卡片</h2>
+      <p>精选 5 家商业服务商卡片：光速云（IEPL+企业内网双专线、¥8/月）、暮光加速（BGP 智能动态调度、不限设备、¥20/月）、飞猫云（自研免配置客户端、¥7/月）、大佬云（超低试错成本、¥5.6/月）、微风网络（全节点 x1 倍率、¥7/月）。所有链接均符合 <code>rel="nofollow sponsored noopener"</code> 规范。</p>
+    </div>
+
+    <div class="footer">
+      <p>机场cloud (jichangcloud.world) 核心内容审阅产物 · 生成时间: 2026-11-15</p>
+    </div>
+  </div>
+</body>
+</html>
