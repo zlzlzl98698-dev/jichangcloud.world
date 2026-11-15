@@ -9,7 +9,7 @@ export default defineConfig({
     hostname: 'https://jichangcloud.world'
   },
   head: [
-    ['link', { rel: 'icon', href: '/favicon.ico' }],
+    ['link', { rel: 'icon', href: '/avatar.webp' }],
     ['meta', { name: 'author', content: '机场cloud 专业评测实验室' }],
     ['meta', { name: 'keywords', content: '机场推荐,机场排行,性价比机场,稳定机场,便宜机场,免费梯子,科学上网,VPN推荐,免费VPN,手机VPN,VPN软件评测,加速器对比,Clash Verge,Clash Meta,免费节点,机场FAQ,跑路预警' }],
     ['meta', { property: 'og:site_name', content: '机场cloud' }],
@@ -95,6 +95,7 @@ export default defineConfig({
     return head;
   },
   themeConfig: {
+    logo: '/avatar.webp',
     siteTitle: '机场cloud',
     search: {
       provider: 'local',
