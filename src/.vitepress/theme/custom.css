@@ -1,0 +1,187 @@
+/**
+ * 机场cloud - 品牌化简白主题 (Clean White Branded Theme)
+ * 遵循 Apple / Cloudflare Docs 极简高对比美学设计
+ */
+
+:root {
+  --vp-c-brand-1: #2563eb;
+  --vp-c-brand-2: #1d4ed8;
+  --vp-c-brand-3: #1e40af;
+  --vp-c-brand-soft: rgba(37, 99, 235, 0.08);
+
+  --vp-c-bg: #ffffff;
+  --vp-c-bg-alt: #f8fafc;
+  --vp-c-bg-elv: #ffffff;
+  --vp-c-bg-soft: #f1f5f9;
+
+  --vp-c-border: #e2e8f0;
+  --vp-c-divider: #f1f5f9;
+  --vp-c-gutter: #e2e8f0;
+
+  --vp-c-text-1: #0f172a;
+  --vp-c-text-2: #334155;
+  --vp-c-text-3: #64748b;
+
+  --vp-font-family-base: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", sans-serif;
+  --vp-font-family-mono: "JetBrains Mono", Menlo, Monaco, Consolas, "Courier New", monospace;
+}
+
+/* Nav header refinement */
+.VPNavBar {
+  background-color: rgba(255, 255, 255, 0.9) !important;
+  backdrop-filter: blur(12px) !important;
+  border-bottom: 1px solid var(--vp-c-border) !important;
+}
+
+.VPNavBarTitle .title {
+  font-weight: 800 !important;
+  font-size: 19px !important;
+  color: #0f172a !important;
+  letter-spacing: -0.02em !important;
+}
+
+/* Nav dropdown menu */
+.VPFlyout .menu {
+  border-radius: 10px !important;
+  border: 1px solid #e2e8f0 !important;
+  box-shadow: 0 10px 25px -5px rgba(15, 23, 42, 0.08), 0 8px 10px -6px rgba(15, 23, 42, 0.05) !important;
+  padding: 8px !important;
+  min-width: 200px !important;
+}
+
+.VPMenuLink .link {
+  border-radius: 6px !important;
+  padding: 8px 12px !important;
+  font-size: 13px !important;
+  font-weight: 500 !important;
+  color: #334155 !important;
+  transition: all 0.15s ease !important;
+}
+
+.VPMenuLink .link:hover {
+  background-color: #eff6ff !important;
+  color: #2563eb !important;
+}
+
+/* Content typography and hierarchy */
+.vp-doc h1 {
+  font-size: 30px !important;
+  font-weight: 800 !important;
+  color: #0f172a !important;
+  letter-spacing: -0.03em !important;
+  margin-bottom: 20px !important;
+  line-height: 1.25 !important;
+}
+
+.vp-doc h2 {
+  font-size: 22px !important;
+  font-weight: 700 !important;
+  color: #0f172a !important;
+  border-bottom: 1px solid #e2e8f0 !important;
+  padding-bottom: 8px !important;
+  margin-top: 36px !important;
+  margin-bottom: 16px !important;
+}
+
+.vp-doc h3 {
+  font-size: 18px !important;
+  font-weight: 600 !important;
+  color: #1e293b !important;
+  margin-top: 28px !important;
+  margin-bottom: 12px !important;
+}
+
+.vp-doc p {
+  line-height: 1.75 !important;
+  color: #334155 !important;
+  font-size: 15px !important;
+}
+
+/* Clean white table styling */
+.vp-doc table {
+  display: table !important;
+  width: 100% !important;
+  border-collapse: separate !important;
+  border-spacing: 0 !important;
+  border: 1px solid #e2e8f0 !important;
+  border-radius: 8px !important;
+  overflow: hidden !important;
+  margin: 20px 0 !important;
+}
+
+.vp-doc th {
+  background-color: #f8fafc !important;
+  color: #0f172a !important;
+  font-weight: 600 !important;
+  font-size: 13px !important;
+  text-align: left !important;
+  padding: 10px 14px !important;
+  border-bottom: 1px solid #e2e8f0 !important;
+  border-right: 1px solid #f1f5f9 !important;
+}
+
+.vp-doc td {
+  padding: 10px 14px !important;
+  font-size: 13px !important;
+  color: #334155 !important;
+  border-bottom: 1px solid #f1f5f9 !important;
+  border-right: 1px solid #f1f5f9 !important;
+}
+
+.vp-doc tr:last-child td {
+  border-bottom: none !important;
+}
+
+.vp-doc td:last-child, .vp-doc th:last-child {
+  border-right: none !important;
+}
+
+.vp-doc tr:hover td {
+  background-color: #f8fafc !important;
+}
+
+/* Custom Answer-First block */
+.answer-first-callout {
+  background: #eff6ff;
+  border-left: 4px solid #2563eb;
+  padding: 16px 20px;
+  border-radius: 0 8px 8px 0;
+  margin: 20px 0 28px 0;
+  font-size: 15px;
+  line-height: 1.7;
+  color: #1e3a8a;
+}
+
+.answer-first-callout strong {
+  color: #1e40af;
+}
+
+/* Breadcrumbs bar */
+.breadcrumb-bar {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  font-size: 12px;
+  color: #64748b;
+  margin-bottom: 16px;
+}
+
+.breadcrumb-bar a {
+  color: #64748b;
+  text-decoration: none;
+}
+
+.breadcrumb-bar a:hover {
+  color: #2563eb;
+}
+
+/* Footer note */
+.footer-disclaimer {
+  margin-top: 48px;
+  padding: 24px 0;
+  border-top: 1px solid #e2e8f0;
+  font-size: 12px;
+  color: #94a3b8;
+  text-align: center;
+  line-height: 1.6;
+}

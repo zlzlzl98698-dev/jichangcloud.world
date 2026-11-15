@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://jichangcloud.world/sitemap.xml
