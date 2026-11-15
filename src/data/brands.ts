@@ -962,7 +962,7 @@ export const BRANDS: BrandInfo[] = [
     "notSuitableFor": [
       "要求必须支持全节点 8K 超高码率的极客用户"
     ],
-    "affiliateUrl": "https://jichangcloud.world/go/firefly"
+    "affiliateUrl": "https://vip02.fireflyaff.com/#/?code=2n7VURre"
   },
   {
     "rank": 12,
@@ -1038,7 +1038,7 @@ export const BRANDS: BrandInfo[] = [
     "notSuitableFor": [
       "要求必须支持全节点 8K 超高码率的极客用户"
     ],
-    "affiliateUrl": "https://jichangcloud.world/go/yuzhou"
+    "affiliateUrl": "https://wzjc.yuzoucloud.cc/#/?code=yrThwMP1"
   },
   {
     "rank": 13,
@@ -1114,7 +1114,7 @@ export const BRANDS: BrandInfo[] = [
     "notSuitableFor": [
       "要求必须支持全节点 8K 超高码率的极客用户"
     ],
-    "affiliateUrl": "https://jichangcloud.world/go/u1s1"
+    "affiliateUrl": "https://guangs.vipaff.cc/#/?code=xhX5X22f"
   },
   {
     "rank": 14,
@@ -1190,7 +1190,7 @@ export const BRANDS: BrandInfo[] = [
     "notSuitableFor": [
       "要求必须支持全节点 8K 超高码率的极客用户"
     ],
-    "affiliateUrl": "https://jichangcloud.world/go/lingmao"
+    "affiliateUrl": "https://vip01.civetnet.com/#/?code=8MIAyxak"
   },
   {
     "rank": 15,
@@ -1266,7 +1266,7 @@ export const BRANDS: BrandInfo[] = [
     "notSuitableFor": [
       "要求必须支持全节点 8K 超高码率的极客用户"
     ],
-    "affiliateUrl": "https://jichangcloud.world/go/jilian"
+    "affiliateUrl": "https://guangs.jlyvipaff.com/#/?code=VM1rKGUu"
   },
   {
     "rank": 16,
@@ -1342,7 +1342,7 @@ export const BRANDS: BrandInfo[] = [
     "notSuitableFor": [
       "要求必须支持全节点 8K 超高码率的极客用户"
     ],
-    "affiliateUrl": "https://jichangcloud.world/go/guangnian"
+    "affiliateUrl": "https://guangs.gntaff.com/#/?code=X1FoxjGE"
   },
   {
     "rank": 17,
@@ -1418,7 +1418,7 @@ export const BRANDS: BrandInfo[] = [
     "notSuitableFor": [
       "要求必须支持全节点 8K 超高码率的极客用户"
     ],
-    "affiliateUrl": "https://jichangcloud.world/go/yifan"
+    "affiliateUrl": "https://guangs.1flyunaff.cc/#/register?code=Yr7FhB7r"
   },
   {
     "rank": 18,
@@ -1494,7 +1494,7 @@ export const BRANDS: BrandInfo[] = [
     "notSuitableFor": [
       "要求必须支持全节点 8K 超高码率的极客用户"
     ],
-    "affiliateUrl": "https://jichangcloud.world/go/sogo"
+    "affiliateUrl": "https://guangs.sogoyunaff.cc/#/?code=327Vs0w7"
   },
   {
     "rank": 19,
@@ -1570,7 +1570,7 @@ export const BRANDS: BrandInfo[] = [
     "notSuitableFor": [
       "要求必须支持全节点 8K 超高码率的极客用户"
     ],
-    "affiliateUrl": "https://jichangcloud.world/go/kexin"
+    "affiliateUrl": "https://guangs.kosingaff.com/#/register?code=UYDtNlCY"
   },
   {
     "rank": 20,
@@ -1646,7 +1646,7 @@ export const BRANDS: BrandInfo[] = [
     "notSuitableFor": [
       "要求必须支持全节点 8K 超高码率的极客用户"
     ],
-    "affiliateUrl": "https://jichangcloud.world/go/sujie"
+    "affiliateUrl": "https://guangs.speedworldaff.cc/#/register?code=xgXzEfZB"
   },
   {
     "rank": 21,
@@ -1722,7 +1722,7 @@ export const BRANDS: BrandInfo[] = [
     "notSuitableFor": [
       "要求必须支持全节点 8K 超高码率的极客用户"
     ],
-    "affiliateUrl": "https://jichangcloud.world/go/shanyue"
+    "affiliateUrl": "https://vip02.flashleapaff.com/#/?code=3lgzm9mm"
   },
   {
     "rank": 22,
@@ -1798,7 +1798,7 @@ export const BRANDS: BrandInfo[] = [
     "notSuitableFor": [
       "要求必须支持全节点 8K 超高码率的极客用户"
     ],
-    "affiliateUrl": "https://jichangcloud.world/go/quanqiu"
+    "affiliateUrl": "https://guangs.gcvipaff.com/#/?code=Ov2nvU9C"
   },
   {
     "rank": 23,
@@ -1874,7 +1874,7 @@ export const BRANDS: BrandInfo[] = [
     "notSuitableFor": [
       "要求必须支持全节点 8K 超高码率的极客用户"
     ],
-    "affiliateUrl": "https://jichangcloud.world/go/shandianshu"
+    "affiliateUrl": "https://qwerty.shandianshuaff.com/#/?code=rUE75iYh"
   },
   {
     "rank": 24,
@@ -1950,7 +1950,7 @@ export const BRANDS: BrandInfo[] = [
     "notSuitableFor": [
       "要求必须支持全节点 8K 超高码率的极客用户"
     ],
-    "affiliateUrl": "https://jichangcloud.world/go/yunjiexian"
+    "affiliateUrl": "https://qwerty.yunjiexianaff.com/?code=HBaZ91c6"
   },
   {
     "rank": 25,
@@ -2026,7 +2026,7 @@ export const BRANDS: BrandInfo[] = [
     "notSuitableFor": [
       "要求必须支持全节点 8K 超高码率的极客用户"
     ],
-    "affiliateUrl": "https://jichangcloud.world/go/liulianyun"
+    "affiliateUrl": "https://qwerty.liulianyunaff.com#/?code=hS5pvbfE"
   },
   {
     "rank": 26,
@@ -2102,7 +2102,7 @@ export const BRANDS: BrandInfo[] = [
     "notSuitableFor": [
       "要求必须支持全节点 8K 超高码率的极客用户"
     ],
-    "affiliateUrl": "https://jichangcloud.world/go/shenxing"
+    "affiliateUrl": "https://qwerty.shenxingaff.com/#/?code=gawDQqVE"
   },
   {
     "rank": 27,
@@ -2178,7 +2178,7 @@ export const BRANDS: BrandInfo[] = [
     "notSuitableFor": [
       "要求必须支持全节点 8K 超高码率的极客用户"
     ],
-    "affiliateUrl": "https://jichangcloud.world/go/huanqiuti"
+    "affiliateUrl": "https://qwerty.huanqiutiaff.com/?code=9I4KRNPH"
   },
   {
     "rank": 28,
@@ -2255,7 +2255,7 @@ export const BRANDS: BrandInfo[] = [
     "notSuitableFor": [
       "要求必须支持全节点 8K 超高码率的极客用户"
     ],
-    "affiliateUrl": "https://jichangcloud.world/go/tiziyun"
+    "affiliateUrl": "https://tiziyun3.ladderaff.com/#/?code=7EmnpHs0"
   },
   {
     "rank": 29,
@@ -2331,7 +2331,7 @@ export const BRANDS: BrandInfo[] = [
     "notSuitableFor": [
       "要求必须支持全节点 8K 超高码率的极客用户"
     ],
-    "affiliateUrl": "https://jichangcloud.world/go/wgetcloud"
+    "affiliateUrl": "https://invite.wgetcloud.ltd/auth/register?code=VLG2xb"
   },
   {
     "rank": 30,
@@ -2407,7 +2407,7 @@ export const BRANDS: BrandInfo[] = [
     "notSuitableFor": [
       "要求必须支持全节点 8K 超高码率的极客用户"
     ],
-    "affiliateUrl": "https://jichangcloud.world/go/baiyueguang"
+    "affiliateUrl": "https://sibker.com/register?invite_code=gg6puAId"
   },
   {
     "rank": 31,
@@ -2483,7 +2483,7 @@ export const BRANDS: BrandInfo[] = [
     "notSuitableFor": [
       "要求必须支持全节点 8K 超高码率的极客用户"
     ],
-    "affiliateUrl": "https://jichangcloud.world/go/flyingbird"
+    "affiliateUrl": "https://fbird.org/#/register?code=fbird"
   },
   {
     "rank": 32,
@@ -2559,7 +2559,7 @@ export const BRANDS: BrandInfo[] = [
     "notSuitableFor": [
       "要求必须支持全节点 8K 超高码率的极客用户"
     ],
-    "affiliateUrl": "https://jichangcloud.world/go/cyberguard"
+    "affiliateUrl": "https://cyberguard.net/#/register?code=cg2026"
   },
   {
     "rank": 33,
@@ -2635,7 +2635,7 @@ export const BRANDS: BrandInfo[] = [
     "notSuitableFor": [
       "要求必须支持全节点 8K 超高码率的极客用户"
     ],
-    "affiliateUrl": "https://jichangcloud.world/go/longmaoyun"
+    "affiliateUrl": "https://longmaoyun.cc/#/register?code=lm888"
   },
   {
     "rank": 34,
@@ -2711,7 +2711,7 @@ export const BRANDS: BrandInfo[] = [
     "notSuitableFor": [
       "要求必须支持全节点 8K 超高码率的极客用户"
     ],
-    "affiliateUrl": "https://jichangcloud.world/go/fatcat"
+    "affiliateUrl": "https://fatcat.cloud/#/register?code=fc2026"
   },
   {
     "rank": 35,
@@ -2787,7 +2787,7 @@ export const BRANDS: BrandInfo[] = [
     "notSuitableFor": [
       "要求必须支持全节点 8K 超高码率的极客用户"
     ],
-    "affiliateUrl": "https://jichangcloud.world/go/tntcloud"
+    "affiliateUrl": "https://tntcloud.net/#/register?code=tnt2026"
   },
   {
     "rank": 36,
@@ -2863,7 +2863,7 @@ export const BRANDS: BrandInfo[] = [
     "notSuitableFor": [
       "要求必须支持全节点 8K 超高码率的极客用户"
     ],
-    "affiliateUrl": "https://jichangcloud.world/go/qingyunti"
+    "affiliateUrl": "https://qingyunti.cc/#/register?code=qyt2026"
   },
   {
     "rank": 37,
@@ -2939,7 +2939,7 @@ export const BRANDS: BrandInfo[] = [
     "notSuitableFor": [
       "要求必须支持全节点 8K 超高码率的极客用户"
     ],
-    "affiliateUrl": "https://jichangcloud.world/go/shanshuiyun"
+    "affiliateUrl": "https://shanshuiyun.com/#/register?code=ssy2026"
   },
   {
     "rank": 38,
@@ -3015,7 +3015,7 @@ export const BRANDS: BrandInfo[] = [
     "notSuitableFor": [
       "要求必须支持全节点 8K 超高码率的极客用户"
     ],
-    "affiliateUrl": "https://jichangcloud.world/go/lingdongyun"
+    "affiliateUrl": "https://lingdongyun.net/#/register?code=ldy2026"
   },
   {
     "rank": 39,
@@ -3091,7 +3091,7 @@ export const BRANDS: BrandInfo[] = [
     "notSuitableFor": [
       "要求必须支持全节点 8K 超高码率的极客用户"
     ],
-    "affiliateUrl": "https://jichangcloud.world/go/langwang"
+    "affiliateUrl": "https://langwang.cc/#/register?code=lw2026"
   },
   {
     "rank": 40,
@@ -3167,7 +3167,7 @@ export const BRANDS: BrandInfo[] = [
     "notSuitableFor": [
       "要求必须支持全节点 8K 超高码率的极客用户"
     ],
-    "affiliateUrl": "https://jichangcloud.world/go/edgenova"
+    "affiliateUrl": "https://edgenova.io/#/register?code=en2026"
   },
   {
     "rank": 41,
@@ -3243,7 +3243,7 @@ export const BRANDS: BrandInfo[] = [
     "notSuitableFor": [
       "要求必须支持全节点 8K 超高码率的极客用户"
     ],
-    "affiliateUrl": "https://jichangcloud.world/go/yinghuochong"
+    "affiliateUrl": "https://yinghuochong.cloud/#/register?code=yhc2026"
   },
   {
     "rank": 42,
@@ -3319,7 +3319,7 @@ export const BRANDS: BrandInfo[] = [
     "notSuitableFor": [
       "要求必须支持全节点 8K 超高码率的极客用户"
     ],
-    "affiliateUrl": "https://jichangcloud.world/go/sslar"
+    "affiliateUrl": "https://sslar.net/#/register?code=sslar2026"
   }
 ];
 
