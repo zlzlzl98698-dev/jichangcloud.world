@@ -609,7 +609,7 @@ otherBrandsRaw.forEach(item => {
     cons: ["高峰期特定偏远节点带宽可能有波动"],
     suitableFor: ["寻求高性价比日常科学上网的用户", "轻度流媒体追剧族"],
     notSuitableFor: ["要求必须支持全节点 8K 超高码率的极客用户"],
-    affiliateUrl: "https://jichangcloud.world/go/" + item.slug
+    affiliateUrl: item.affiliateUrl || "https://sahude.gsyvipaff.com/#/?code=keqgvT5Y"
   });
 });
 
