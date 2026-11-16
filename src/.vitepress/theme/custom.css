@@ -182,10 +182,40 @@
   background-color: #f8faff !important;
 }
 
-/* Specific column constraints to guarantee beautiful layout without word breaking */
+/* ==================== 2-Column Key-Value Spec Tables (e.g. 品牌基础概览档案) ==================== */
+.vp-doc table:has(th:nth-child(2):last-child),
+.vp-doc table:has(td:nth-child(2):last-child) {
+  display: table !important;
+  width: 100% !important;
+  table-layout: auto !important;
+}
+
+.vp-doc table:has(th:nth-child(2):last-child) th:first-child,
+.vp-doc table:has(td:nth-child(2):last-child) td:first-child {
+  width: 160px !important;
+  min-width: 140px !important;
+  max-width: 180px !important;
+  text-align: left !important;
+  white-space: nowrap !important;
+  font-weight: 600 !important;
+  font-size: 13px !important;
+  background-color: #f8fafc !important;
+  color: #0f172a !important;
+}
+
+.vp-doc table:has(th:nth-child(2):last-child) th:nth-child(2),
+.vp-doc table:has(td:nth-child(2):last-child) td:nth-child(2) {
+  width: auto !important;
+  text-align: left !important;
+  white-space: normal !important;
+  font-weight: normal !important;
+  color: #334155 !important;
+}
+
+/* ==================== Specific Multi-Column Constraints (Ranking & Comparison Tables 5+ cols) ==================== */
 /* Col 1: 排名 */
-.vp-doc table th:nth-child(1),
-.vp-doc table td:nth-child(1) {
+.vp-doc table:has(th:nth-child(5)) th:nth-child(1),
+.vp-doc table:has(td:nth-child(5)) td:nth-child(1) {
   width: 55px !important;
   min-width: 55px !important;
   text-align: center !important;
@@ -194,8 +224,8 @@
 }
 
 /* Col 2: 机场品牌 */
-.vp-doc table th:nth-child(2),
-.vp-doc table td:nth-child(2) {
+.vp-doc table:has(th:nth-child(5)) th:nth-child(2),
+.vp-doc table:has(td:nth-child(5)) td:nth-child(2) {
   min-width: 140px !important;
   white-space: nowrap !important;
   font-weight: 700 !important;
@@ -203,22 +233,22 @@
 }
 
 /* Col 3: 线路与架构特点 */
-.vp-doc table th:nth-child(3),
-.vp-doc table td:nth-child(3) {
+.vp-doc table:has(th:nth-child(5)) th:nth-child(3),
+.vp-doc table:has(td:nth-child(5)) td:nth-child(3) {
   min-width: 150px !important;
   white-space: normal !important;
 }
 
 /* Col 4: 入门价格与套餐 */
-.vp-doc table th:nth-child(4),
-.vp-doc table td:nth-child(4) {
+.vp-doc table:has(th:nth-child(5)) th:nth-child(4),
+.vp-doc table:has(td:nth-child(5)) td:nth-child(4) {
   min-width: 130px !important;
   white-space: nowrap !important;
 }
 
 /* Col 5: 优惠码 */
-.vp-doc table th:nth-child(5),
-.vp-doc table td:nth-child(5) {
+.vp-doc table:has(th:nth-child(5)) th:nth-child(5),
+.vp-doc table:has(td:nth-child(5)) td:nth-child(5) {
   width: 90px !important;
   min-width: 90px !important;
   text-align: center !important;
@@ -226,16 +256,16 @@
 }
 
 /* Col 6: 核心优势与适用场景 */
-.vp-doc table th:nth-child(6),
-.vp-doc table td:nth-child(6) {
+.vp-doc table:has(th:nth-child(5)) th:nth-child(6),
+.vp-doc table:has(td:nth-child(5)) td:nth-child(6) {
   min-width: 240px !important;
   white-space: normal !important;
   line-height: 1.6 !important;
 }
 
 /* Col 7: 快捷通道 */
-.vp-doc table th:nth-child(7),
-.vp-doc table td:nth-child(7) {
+.vp-doc table:has(th:nth-child(5)) th:nth-child(7),
+.vp-doc table:has(td:nth-child(5)) td:nth-child(7) {
   min-width: 140px !important;
   text-align: center !important;
   white-space: nowrap !important;
