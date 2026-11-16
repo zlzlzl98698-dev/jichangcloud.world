@@ -1,5 +1,6 @@
 import { defineConfig } from 'vitepress';
 import { BRANDS } from '../data/brands';
+import { getFaqSchema } from './schemaHelper';
 
 export default defineConfig({
   title: '机场cloud',
@@ -18,7 +19,7 @@ export default defineConfig({
   ],
   transformHead({ pageData }) {
     const head = [];
-    const url = 'https://jichangcloud.world/' + (pageData.relativePath === 'index.md' ? '' : pageData.relativePath.replace(/\\.md$/, ''));
+    const url = 'https://jichangcloud.world/' + (pageData.relativePath === 'index.md' ? '' : pageData.relativePath.replace(/\.md$/, ''));
 
     // Global Schema
     if (pageData.relativePath === 'index.md') {
@@ -43,8 +44,8 @@ export default defineConfig({
           ]
         })
       ]);
-    } else if (pageData.relativePath.startsWith('brands/')) {
-      const slug = pageData.relativePath.replace('brands/', '').replace(/\\.md$/, '');
+    } else if (pageData.relativePath.startsWith('brands/') && pageData.relativePath !== 'brands/index.md') {
+      const slug = pageData.relativePath.replace('brands/', '').replace(/\.md$/, '');
       const brand = BRANDS.find(b => b.slug === slug);
       if (brand) {
         head.push([
@@ -89,6 +90,16 @@ export default defineConfig({
             'name': '机场cloud网络实验室'
           }
         })
+      ]);
+    }
+
+    // Automatically inject Schema.org FAQPage JSON-LD microdata when FAQs are present on the page
+    const faqSchema = getFaqSchema(pageData.relativePath);
+    if (faqSchema) {
+      head.push([
+        'script',
+        { type: 'application/ld+json' },
+        JSON.stringify(faqSchema)
       ]);
     }
 
