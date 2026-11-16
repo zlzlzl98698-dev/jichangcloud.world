@@ -1,4 +1,32 @@
+# Robots.txt for https://jichangcloud.world
+# Standard SEO crawling rules for search engines
+
 User-agent: *
 Allow: /
 
+# Google Search
+User-agent: Googlebot
+Allow: /
+
+# Microsoft Bing Search
+User-agent: Bingbot
+Allow: /
+
+# Baidu Search
+User-agent: Baiduspider
+Allow: /
+
+# Shenma / Quark / UC Browser Search
+User-agent: Yisouspider
+Allow: /
+
+# 360 Search
+User-agent: 360Spider
+Allow: /
+
+# Sogou Search
+User-agent: Sogou web spider
+Allow: /
+
+# XML Sitemap Declaration
 Sitemap: https://jichangcloud.world/sitemap.xml

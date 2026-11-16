@@ -54,7 +54,41 @@ export default defineConfig({
       { rel: 'canonical', href: url }
     ]);
 
-    // 2. Schema.org BreadcrumbList microdata
+    // 2. Comprehensive Open Graph & Twitter Card SEO Head System
+    const pageTitle = pageData.title ? `${pageData.title} | 机场cloud` : '机场cloud - 2026 高性价比机场推荐与测速排行指南';
+    const pageDesc = pageData.description || '2026 高性价比机场推荐与测速排行指南 | 专注稳定专线、便宜机场、VPN加速器对比与 Clash Verge 教程';
+    const pageImage = 'https://jichangcloud.world/avatar.webp';
+
+    head.push(['meta', { property: 'og:title', content: pageTitle }]);
+    head.push(['meta', { property: 'og:description', content: pageDesc }]);
+    head.push(['meta', { property: 'og:url', content: url }]);
+    head.push(['meta', { property: 'og:image', content: pageImage }]);
+    head.push(['meta', { property: 'og:locale', content: 'zh_CN' }]);
+
+    head.push(['meta', { name: 'twitter:card', content: 'summary_large_image' }]);
+    head.push(['meta', { name: 'twitter:title', content: pageTitle }]);
+    head.push(['meta', { name: 'twitter:description', content: pageDesc }]);
+    head.push(['meta', { name: 'twitter:image', content: pageImage }]);
+
+    // Article timestamps
+    if (pageData.relativePath !== 'index.md') {
+      head.push(['meta', { property: 'article:published_time', content: '2026-01-01T08:00:00+08:00' }]);
+      head.push(['meta', { property: 'article:modified_time', content: '2026-11-16T12:00:00+08:00' }]);
+      head.push(['meta', { property: 'article:author', content: '机场cloud网络实验室' }]);
+    }
+
+    // 3. Search Engine Verification Hooks (Supports process.env or direct replacement)
+    const googleVerify = process.env.GOOGLE_SITE_VERIFICATION || '';
+    const bingVerify = process.env.BING_SITE_VERIFICATION || '';
+    const shenmaVerify = process.env.SHENMA_SITE_VERIFICATION || '';
+    const baiduVerify = process.env.BAIDU_SITE_VERIFICATION || '';
+
+    if (googleVerify) head.push(['meta', { name: 'google-site-verification', content: googleVerify }]);
+    if (bingVerify) head.push(['meta', { name: 'msvalidate.01', content: bingVerify }]);
+    if (shenmaVerify) head.push(['meta', { name: 'shenma-site-verification', content: shenmaVerify }]);
+    if (baiduVerify) head.push(['meta', { name: 'baidu-site-verification', content: baiduVerify }]);
+
+    // 4. Schema.org BreadcrumbList microdata
     const breadcrumbSchema = getBreadcrumbSchema(pageData.relativePath, pageData.title);
     if (breadcrumbSchema) {
       head.push([
@@ -128,6 +162,21 @@ export default defineConfig({
           'headline': pageData.title || '机场cloud 深度专栏',
           'description': pageData.description || '高品质科学上网指南与实测数据分析',
           'url': url,
+          'image': 'https://jichangcloud.world/avatar.webp',
+          'datePublished': '2026-01-01T08:00:00+08:00',
+          'dateModified': '2026-11-16T12:00:00+08:00',
+          'mainEntityOfPage': {
+            '@type': 'WebPage',
+            '@id': url
+          },
+          'publisher': {
+            '@type': 'Organization',
+            'name': '机场cloud',
+            'logo': {
+              '@type': 'ImageObject',
+              'url': 'https://jichangcloud.world/avatar.webp'
+            }
+          },
           'author': {
             '@type': 'Organization',
             'name': '机场cloud网络实验室'
