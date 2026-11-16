@@ -186,12 +186,12 @@ description: 2026年全网最深度的翻墙机场风险情报与服务商品质
 
 | 机场品牌 | 运营起始年限 | 核心防灾备网络架构 | 晚高峰实测下行带宽 | 全天平均丢包率 | 典型入门价格与周期 | 隐私与数据安全评级 | 专属优惠码 | 深度评测与官方通道 |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| **光速云** | **2020 年老牌** | **IEPL 物理专线 + 企业内网双备份** | **529Mbps (峰值稳定)** | **< 0.1% (企业级零丢包)** | ¥8/月 (年付99，另有147永久) | ⭐⭐⭐⭐⭐ (零日志审计，6年金牌信誉) | `AMM` | [深度评测](/recommend/best) · <a href="https://gsaff.pages.dev/#/?code=keqgvT5Y" target="_blank" rel="nofollow sponsored noopener">直达官网选购</a> |
+| **光速云** | **2020 年老牌** | **IEPL 物理专线 + 企业内网双备份** | **529Mbps (峰值稳定)** | **< 0.1% (企业级零丢包)** | ¥8/月 (年付99，另有147永久) | ⭐⭐⭐⭐⭐ (零日志审计，6年金牌信誉) | `AMM` | [深度评测](/recommend/best) · <a href="https://sahude.gsyvipaff.com/#/?code=keqgvT5Y" target="_blank" rel="nofollow sponsored noopener">直达官网选购</a> |
 | **暮光加速** | **2021 年老牌** | **BGP智能动态调度专线级出口** | **800Mbps+ (超大带宽)** | **< 0.2% (超低抖动)** | ¥20/月 (120GB 专线) | ⭐⭐⭐⭐⭐ (大冗余带宽，不限设备数) | `muguang5555` | [深度评测](/recommend/stable) · <a href="https://varnexa.twilightaff.com/#/?code=D1LHglg3" target="_blank" rel="nofollow sponsored noopener">直达官网选购</a> |
-| **飞猫云** | **2021 年老牌** | **隧道中转 + 亚太骨干优化** | 200Mbps (稳定充沛) | < 0.5% (日常顺滑) | ¥7/月 (年付84) | ⭐⭐⭐⭐⭐ (官方自研客户端，开箱即用) | `flycat888` | [深度评测](/recommend/ranking) · <a href="https://feimaoaff.feimao666.cc/#/?code=1vA8F1V4" target="_blank" rel="nofollow sponsored noopener">直达官网选购</a> |
-| **微风网络** | **2022 年老牌** | **BGP 多线智能中转出口** | 300Mbps (三网优化) | < 0.5% (路由最优) | ¥7/月起 (全节点x1倍率) | ⭐⭐⭐⭐⭐ (全节点统一倍率，透明消费) | `flat888` | [深度评测](/recommend/cost-effective) · <a href="https://wfaff.weifengaff.com/#/?code=j9sDqD7D" target="_blank" rel="nofollow sponsored noopener">直达官网选购</a> |
-| **大佬云** | **2022 年老牌** | **高速中继优化线路** | 200Mbps (轻度极佳) | < 0.8% (平稳够用) | **¥5.6/月 (60GB高速流量)** | ⭐⭐⭐⭐ (单月仅5.6元，试错成本为零) | `dly888` | [深度评测](/recommend/cheap) · <a href="https://dlyaff.dalaoaff.com/#/?code=R6UQk0U7" target="_blank" rel="nofollow sponsored noopener">直达官网选购</a> |
-| **星岛梦** | 2022 年老牌 | 专线中转 + 不限时优质节点 | 260Mbps (高速充裕) | < 0.5% (长期稳定) | ¥18/月起 (独家不限时包) | ⭐⭐⭐⭐ (流量永不清零，防断网冷备) | `nmw888` | [深度评测](/recommend/free-ladder) · <a href="https://xdmaff.xingdaomengaff.com/#/?code=cCoXoT99" target="_blank" rel="nofollow sponsored noopener">直达官网选购</a> |
+| **飞猫云** | **2021 年老牌** | **隧道中转 + 亚太骨干优化** | 200Mbps (稳定充沛) | < 0.5% (日常顺滑) | ¥7/月 (年付84) | ⭐⭐⭐⭐⭐ (官方自研客户端，开箱即用) | `flycat888` | [深度评测](/recommend/ranking) · <a href="https://guangs.flycataff.com/#/?code=6uq0Xe9y" target="_blank" rel="nofollow sponsored noopener">直达官网选购</a> |
+| **微风网络** | **2022 年老牌** | **BGP 多线智能中转出口** | 300Mbps (三网优化) | < 0.5% (路由最优) | ¥7/月起 (全节点x1倍率) | ⭐⭐⭐⭐⭐ (全节点统一倍率，透明消费) | `flat888` | [深度评测](/recommend/cost-effective) · <a href="https://edp01.breezenetaff.com/#/?code=t3huofyI" target="_blank" rel="nofollow sponsored noopener">直达官网选购</a> |
+| **大佬云** | **2022 年老牌** | **高速中继优化线路** | 200Mbps (轻度极佳) | < 0.8% (平稳够用) | **¥5.6/月 (60GB高速流量)** | ⭐⭐⭐⭐ (单月仅5.6元，试错成本为零) | `dly888` | [深度评测](/recommend/cheap) · <a href="https://qwerty.dalaoyunaff.com/#/?code=jCPLmoWN" target="_blank" rel="nofollow sponsored noopener">直达官网选购</a> |
+| **星岛梦** | 2022 年老牌 | 专线中转 + 不限时优质节点 | 260Mbps (高速充裕) | < 0.5% (长期稳定) | ¥18/月起 (独家不限时包) | ⭐⭐⭐⭐ (流量永不清零，防断网冷备) | `nmw888` | [深度评测](/recommend/free-ladder) · <a href="https://guangs.xingdaomeng.com/#/?code=1TynBYnR" target="_blank" rel="nofollow sponsored noopener">直达官网选购</a> |
 | **SpeedCAT (闪电猫)** | 2021 年老牌 | 专线网络 + 多节点负载均衡 | 450Mbps (突发强劲) | < 0.3% (多地高防) | 约¥25/月起 | ⭐⭐⭐⭐⭐ (高防落地，抗冲击能力强) | 暂无优惠码 | [选型对比](/vpn/compare) · 节点列表完备 |
 | **FSCloud** | 2022 年平稳 | 隧道与中继混合多协议出海 | 180Mbps (平稳够用) | < 0.8% (过渡平稳) | 约¥15/月起 | ⭐⭐⭐⭐ (日常备用平价过渡首选) | 暂无优惠码 | [选型对比](/vpn/accelerator) · 适合轻度需求 |
 | **Nexitally** | 2018 年殿堂 | 高级专线与多线接入 | 850Mbps (高吞吐旗舰) | < 0.1% (极致工业级) | 约¥60/月起 (高端定制) | ⭐⭐⭐⭐⭐ (专有协议优化，极客天花板) | 暂无优惠码 | [高端评测](/recommend/best) · 极致性能表现 |
@@ -406,7 +406,7 @@ description: 2026年全网最深度的翻墙机场风险情报与服务商品质
     </div>
     <div class="affiliate-action">
       <span class="coupon-tag">专属优惠码：AMM</span>
-      <a href="https://gsaff.pages.dev/#/?code=keqgvT5Y" class="aff-btn" target="_blank" rel="nofollow sponsored noopener">直达官网选购套餐 &rarr;</a>
+      <a href="https://sahude.gsyvipaff.com/#/?code=keqgvT5Y" class="aff-btn" target="_blank" rel="nofollow sponsored noopener">直达官网选购套餐 &rarr;</a>
     </div>
   </div>
 
@@ -444,7 +444,7 @@ description: 2026年全网最深度的翻墙机场风险情报与服务商品质
     </div>
     <div class="affiliate-action">
       <span class="coupon-tag">专属优惠码：flycat888</span>
-      <a href="https://feimaoaff.feimao666.cc/#/?code=1vA8F1V4" class="aff-btn" target="_blank" rel="nofollow sponsored noopener">直达官网选购套餐 &rarr;</a>
+      <a href="https://guangs.flycataff.com/#/?code=6uq0Xe9y" class="aff-btn" target="_blank" rel="nofollow sponsored noopener">直达官网选购套餐 &rarr;</a>
     </div>
   </div>
 
@@ -462,7 +462,7 @@ description: 2026年全网最深度的翻墙机场风险情报与服务商品质
     </div>
     <div class="affiliate-action">
       <span class="coupon-tag">专属优惠码：dly888</span>
-      <a href="https://dlyaff.dalaoaff.com/#/?code=R6UQk0U7" class="aff-btn" target="_blank" rel="nofollow sponsored noopener">直达官网选购套餐 &rarr;</a>
+      <a href="https://qwerty.dalaoyunaff.com/#/?code=jCPLmoWN" class="aff-btn" target="_blank" rel="nofollow sponsored noopener">直达官网选购套餐 &rarr;</a>
     </div>
   </div>
 
@@ -481,7 +481,7 @@ description: 2026年全网最深度的翻墙机场风险情报与服务商品质
     </div>
     <div class="affiliate-action">
       <span class="coupon-tag">结账9折优惠码：flat888</span>
-      <a href="https://wfaff.weifengaff.com/#/?code=j9sDqD7D" class="aff-btn" target="_blank" rel="nofollow sponsored noopener">直达官网选购套餐 &rarr;</a>
+      <a href="https://edp01.breezenetaff.com/#/?code=t3huofyI" class="aff-btn" target="_blank" rel="nofollow sponsored noopener">直达官网选购套餐 &rarr;</a>
     </div>
   </div>
 </div>

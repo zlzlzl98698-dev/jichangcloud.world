@@ -371,12 +371,12 @@ rules:
 
 | 机场品牌 | 线路与网络拓扑架构 | Clash 协议与内核支持 | 入门价格与套餐 | 晚高峰实测下行带宽 | 4K/8K视频秒开延迟 | 流媒体与 AI 解锁评级 | 在线设备限制 | 专属优惠码 | 深度评测与官方通道 |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| **光速云** | 企业级双专线 (IEPL+内网专线双备份) | VLESS (Reality) / Shadowsocks | ¥8/月 (年付99) 另有147永久套餐 | 529Mbps (峰值稳定) | 22ms (秒开不转圈) | ⭐⭐⭐⭐⭐ (全面原生解锁 ChatGPT/Claude/Netflix) | 5台设备不限速 | `AMM` | [深度评测](/recommend/best) · <a href="https://gsaff.pages.dev/#/?code=keqgvT5Y" target="_blank" rel="nofollow sponsored noopener">直达官网选购</a> |
+| **光速云** | 企业级双专线 (IEPL+内网专线双备份) | VLESS (Reality) / Shadowsocks | ¥8/月 (年付99) 另有147永久套餐 | 529Mbps (峰值稳定) | 22ms (秒开不转圈) | ⭐⭐⭐⭐⭐ (全面原生解锁 ChatGPT/Claude/Netflix) | 5台设备不限速 | `AMM` | [深度评测](/recommend/best) · <a href="https://sahude.gsyvipaff.com/#/?code=keqgvT5Y" target="_blank" rel="nofollow sponsored noopener">直达官网选购</a> |
 | **暮光加速** | BGP智能动态调度专线级出口 | Shadowsocks / Trojan / 通用订阅 | ¥20/月 (120GB) | 800Mbps+ (超大带宽) | 28ms (超低抖动) | ⭐⭐⭐⭐⭐ (全平台解锁/不限设备在线) | **不限制在线设备数** | `muguang5555` | [深度评测](/recommend/stable) · <a href="https://varnexa.twilightaff.com/#/?code=D1LHglg3" target="_blank" rel="nofollow sponsored noopener">直达官网选购</a> |
-| **飞猫云** | 隧道中转 + 亚太骨干优化 | **提供自研客户端 (下载即用免配置)** | ¥7/月（年付84） | 200Mbps (稳定充沛) | 45ms (日常极速) | ⭐⭐⭐⭐⭐ (支持主流流媒体与日常外网) | 多端通用 | `flycat888` | [深度评测](/recommend/ranking) · <a href="https://feimaoaff.feimao666.cc/#/?code=1vA8F1V4" target="_blank" rel="nofollow sponsored noopener">直达官网选购</a> |
-| **微风网络** | BGP 多线智能中转出口 | Shadowsocks / VMess (全节点x1倍率)| ¥7/月起 | 300Mbps (三网优化) | 35ms (智能路由最优) | ⭐⭐⭐⭐⭐ (透明计费/ChatGPT秒开) | 3台设备 | `flat888` | [深度评测](/recommend/cost-effective) · <a href="https://wfaff.weifengaff.com/#/?code=j9sDqD7D" target="_blank" rel="nofollow sponsored noopener">直达官网选购</a> |
-| **大佬云** | 高速中继优化线路 | Shadowsocks 标准订阅 | ¥5.6/月 (60GB) | 200Mbps (轻度极佳) | 50ms (日常网页秒开) | ⭐⭐⭐⭐ (日常网页与查资料秒开) | 2台设备 | `dly888` | [深度评测](/recommend/cheap) · <a href="https://dlyaff.dalaoaff.com/#/?code=R6UQk0U7" target="_blank" rel="nofollow sponsored noopener">直达官网选购</a> |
-| **星岛梦** | 专线中转 + 不限时优质节点 | Shadowsocks / V2Ray | ¥18/月起 | 260Mbps (高速充裕) | 40ms (低延迟稳定) | ⭐⭐⭐⭐ (Netflix 4K/ChatGPT 全解锁) | 3台设备 | `nmw888` | [深度评测](/recommend/free-ladder) · <a href="https://xdmaff.xingdaomengaff.com/#/?code=cCoXoT99" target="_blank" rel="nofollow sponsored noopener">直达官网选购</a> |
+| **飞猫云** | 隧道中转 + 亚太骨干优化 | **提供自研客户端 (下载即用免配置)** | ¥7/月（年付84） | 200Mbps (稳定充沛) | 45ms (日常极速) | ⭐⭐⭐⭐⭐ (支持主流流媒体与日常外网) | 多端通用 | `flycat888` | [深度评测](/recommend/ranking) · <a href="https://guangs.flycataff.com/#/?code=6uq0Xe9y" target="_blank" rel="nofollow sponsored noopener">直达官网选购</a> |
+| **微风网络** | BGP 多线智能中转出口 | Shadowsocks / VMess (全节点x1倍率)| ¥7/月起 | 300Mbps (三网优化) | 35ms (智能路由最优) | ⭐⭐⭐⭐⭐ (透明计费/ChatGPT秒开) | 3台设备 | `flat888` | [深度评测](/recommend/cost-effective) · <a href="https://edp01.breezenetaff.com/#/?code=t3huofyI" target="_blank" rel="nofollow sponsored noopener">直达官网选购</a> |
+| **大佬云** | 高速中继优化线路 | Shadowsocks 标准订阅 | ¥5.6/月 (60GB) | 200Mbps (轻度极佳) | 50ms (日常网页秒开) | ⭐⭐⭐⭐ (日常网页与查资料秒开) | 2台设备 | `dly888` | [深度评测](/recommend/cheap) · <a href="https://qwerty.dalaoyunaff.com/#/?code=jCPLmoWN" target="_blank" rel="nofollow sponsored noopener">直达官网选购</a> |
+| **星岛梦** | 专线中转 + 不限时优质节点 | Shadowsocks / V2Ray | ¥18/月起 | 260Mbps (高速充裕) | 40ms (低延迟稳定) | ⭐⭐⭐⭐ (Netflix 4K/ChatGPT 全解锁) | 3台设备 | `nmw888` | [深度评测](/recommend/free-ladder) · <a href="https://guangs.xingdaomeng.com/#/?code=1TynBYnR" target="_blank" rel="nofollow sponsored noopener">直达官网选购</a> |
 | **SpeedCAT (闪电猫)** | 专线网络 + 多节点负载均衡 | SS / SSR 全协议支持 | 约¥25/月起 | 450Mbps (突发强劲) | 30ms (极佳体验) | ⭐⭐⭐⭐⭐ (主流流媒体全解锁) | 5台设备 | 暂无优惠码 | [选型对比](/vpn/compare) · 节点列表完备 |
 | **FSCloud** | 隧道与中继混合多协议出海 | V2Ray / Trojan / SS | 约¥15/月起 | 180Mbps (平稳够用) | 55ms (平价过渡) | ⭐⭐⭐⭐ (日常油管 1080P/4K 解锁) | 2台设备 | 暂无优惠码 | [选型对比](/vpn/accelerator) · 适合轻度需求 |
 | **Nexitally** | 高级专线与多线接入 | 专有优化协议 / SS | 约¥60/月起 (高端定制) | 850Mbps (高吞吐旗舰)| 20ms (极致性能) | ⭐⭐⭐⭐⭐ (全流媒体全地区解锁) | 多设备 | 暂无优惠码 | [高端评测](/recommend/best) · 极客与团队首选 |
@@ -587,7 +587,7 @@ rules:
     </div>
     <div class="affiliate-action">
       <span class="coupon-tag">专属优惠码：AMM</span>
-      <a href="https://gsaff.pages.dev/#/?code=keqgvT5Y" class="aff-btn" target="_blank" rel="nofollow sponsored noopener">直达官网选购套餐 &rarr;</a>
+      <a href="https://sahude.gsyvipaff.com/#/?code=keqgvT5Y" class="aff-btn" target="_blank" rel="nofollow sponsored noopener">直达官网选购套餐 &rarr;</a>
     </div>
   </div>
 
@@ -625,7 +625,7 @@ rules:
     </div>
     <div class="affiliate-action">
       <span class="coupon-tag">专属优惠码：flycat888</span>
-      <a href="https://feimaoaff.feimao666.cc/#/?code=1vA8F1V4" class="aff-btn" target="_blank" rel="nofollow sponsored noopener">直达官网选购套餐 &rarr;</a>
+      <a href="https://guangs.flycataff.com/#/?code=6uq0Xe9y" class="aff-btn" target="_blank" rel="nofollow sponsored noopener">直达官网选购套餐 &rarr;</a>
     </div>
   </div>
 
@@ -644,7 +644,7 @@ rules:
     </div>
     <div class="affiliate-action">
       <span class="coupon-tag">专属优惠码：dly888</span>
-      <a href="https://dlyaff.dalaoaff.com/#/?code=R6UQk0U7" class="aff-btn" target="_blank" rel="nofollow sponsored noopener">直达官网选购套餐 &rarr;</a>
+      <a href="https://qwerty.dalaoyunaff.com/#/?code=jCPLmoWN" class="aff-btn" target="_blank" rel="nofollow sponsored noopener">直达官网选购套餐 &rarr;</a>
     </div>
   </div>
 
@@ -663,7 +663,7 @@ rules:
     </div>
     <div class="affiliate-action">
       <span class="coupon-tag">结账9折优惠码：flat888</span>
-      <a href="https://wfaff.weifengaff.com/#/?code=j9sDqD7D" class="aff-btn" target="_blank" rel="nofollow sponsored noopener">直达官网选购套餐 &rarr;</a>
+      <a href="https://edp01.breezenetaff.com/#/?code=t3huofyI" class="aff-btn" target="_blank" rel="nofollow sponsored noopener">直达官网选购套餐 &rarr;</a>
     </div>
   </div>
 </div>

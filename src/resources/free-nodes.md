@@ -143,12 +143,12 @@ description: 2026年全网最深度的免费科学上网节点与公共代理池
 
 | 机场品牌 | 免费试用政策与领取方式 | 最低入门付费套餐 | 线路与网络拓扑架构 | 晚高峰实测下行带宽 | 流媒体与 AI 解锁评级 | 客户端兼容性 | 专属优惠码 | 深度评测与官方通道 |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| **光速云** | 注册发放体验包 / 官方群限时试用 | **¥8/月 (年付99，另有147永久)** | **IEPL 企业内网双专线架构** | **529Mbps (峰值稳定)** | ⭐⭐⭐⭐⭐ (全面原生解锁 ChatGPT/Claude/Netflix) | Clash/Stash/小火箭/全平台 | `AMM` | [深度评测](/recommend/best) · <a href="https://gsaff.pages.dev/#/?code=keqgvT5Y" target="_blank" rel="nofollow sponsored noopener">直达官网试用</a> |
-| **大佬云** | **超低门槛试错级首选** | **¥5.6/月 (60GB高速流量)** | 高速中继优化线路 | 200Mbps (轻度极佳) | ⭐⭐⭐⭐ (日常网页与查资料秒开) | Clash/v2rayN/Shadowrocket | `dly888` | [深度评测](/recommend/cheap) · <a href="https://dlyaff.dalaoaff.com/#/?code=R6UQk0U7" target="_blank" rel="nofollow sponsored noopener">直达官网选购</a> |
-| **飞猫云** | **提供自研客户端 (下载即用免配置)** | ¥7/月（年付84） | 隧道中转 + 亚太骨干优化 | 200Mbps (稳定充沛) | ⭐⭐⭐⭐⭐ (支持主流流媒体与日常外网) | Windows/Mac/Android 自研免翻墙安装 | `flycat888` | [深度评测](/recommend/ranking) · <a href="https://feimaoaff.feimao666.cc/#/?code=1vA8F1V4" target="_blank" rel="nofollow sponsored noopener">直达官网试用</a> |
-| **微风网络** | 支持极低门槛月付试水 | **¥7/月起 (全节点x1倍率)** | BGP 多线智能中转出口 | 300Mbps (三网优化) | ⭐⭐⭐⭐⭐ (透明计费/ChatGPT秒开) | 全通用协议通吃 | `flat888` | [深度评测](/recommend/cost-effective) · <a href="https://wfaff.weifengaff.com/#/?code=j9sDqD7D" target="_blank" rel="nofollow sponsored noopener">直达官网选购</a> |
+| **光速云** | 注册发放体验包 / 官方群限时试用 | **¥8/月 (年付99，另有147永久)** | **IEPL 企业内网双专线架构** | **529Mbps (峰值稳定)** | ⭐⭐⭐⭐⭐ (全面原生解锁 ChatGPT/Claude/Netflix) | Clash/Stash/小火箭/全平台 | `AMM` | [深度评测](/recommend/best) · <a href="https://sahude.gsyvipaff.com/#/?code=keqgvT5Y" target="_blank" rel="nofollow sponsored noopener">直达官网试用</a> |
+| **大佬云** | **超低门槛试错级首选** | **¥5.6/月 (60GB高速流量)** | 高速中继优化线路 | 200Mbps (轻度极佳) | ⭐⭐⭐⭐ (日常网页与查资料秒开) | Clash/v2rayN/Shadowrocket | `dly888` | [深度评测](/recommend/cheap) · <a href="https://qwerty.dalaoyunaff.com/#/?code=jCPLmoWN" target="_blank" rel="nofollow sponsored noopener">直达官网选购</a> |
+| **飞猫云** | **提供自研客户端 (下载即用免配置)** | ¥7/月（年付84） | 隧道中转 + 亚太骨干优化 | 200Mbps (稳定充沛) | ⭐⭐⭐⭐⭐ (支持主流流媒体与日常外网) | Windows/Mac/Android 自研免翻墙安装 | `flycat888` | [深度评测](/recommend/ranking) · <a href="https://guangs.flycataff.com/#/?code=6uq0Xe9y" target="_blank" rel="nofollow sponsored noopener">直达官网试用</a> |
+| **微风网络** | 支持极低门槛月付试水 | **¥7/月起 (全节点x1倍率)** | BGP 多线智能中转出口 | 300Mbps (三网优化) | ⭐⭐⭐⭐⭐ (透明计费/ChatGPT秒开) | 全通用协议通吃 | `flat888` | [深度评测](/recommend/cost-effective) · <a href="https://edp01.breezenetaff.com/#/?code=t3huofyI" target="_blank" rel="nofollow sponsored noopener">直达官网选购</a> |
 | **暮光加速** | 官方频道不定期发放体验码 | ¥20/月 (120GB 专线) | **BGP智能动态调度专线级出口** | **800Mbps+ (超大带宽)** | ⭐⭐⭐⭐⭐ (全平台解锁/不限设备在线) | **不限制在线设备数** | `muguang5555` | [深度评测](/recommend/stable) · <a href="https://varnexa.twilightaff.com/#/?code=D1LHglg3" target="_blank" rel="nofollow sponsored noopener">直达官网试用</a> |
-| **星岛梦** | 每日签到领流量 / 试用套餐 | **¥18/月起 (独家不限时包)** | 专线中转 + 不限时优质节点 | 260Mbps (高速充裕) | ⭐⭐⭐⭐ (Netflix 4K/ChatGPT 全解锁) | Clash/Meta/小火箭通用 | `nmw888` | [深度评测](/recommend/free-ladder) · <a href="https://xdmaff.xingdaomengaff.com/#/?code=cCoXoT99" target="_blank" rel="nofollow sponsored noopener">直达官网试用</a> |
+| **星岛梦** | 每日签到领流量 / 试用套餐 | **¥18/月起 (独家不限时包)** | 专线中转 + 不限时优质节点 | 260Mbps (高速充裕) | ⭐⭐⭐⭐ (Netflix 4K/ChatGPT 全解锁) | Clash/Meta/小火箭通用 | `nmw888` | [深度评测](/recommend/free-ladder) · <a href="https://guangs.xingdaomeng.com/#/?code=1TynBYnR" target="_blank" rel="nofollow sponsored noopener">直达官网试用</a> |
 | **SpeedCAT (闪电猫)** | 新人注册优惠直减 | 约¥25/月起 | 专线网络 + 多节点负载均衡 | 450Mbps (突发强劲) | ⭐⭐⭐⭐⭐ (主流流媒体全解锁) | SS / SSR 全协议支持 | 暂无优惠码 | [选型对比](/vpn/compare) · 节点列表完备 |
 | **FSCloud** | 注册赠送试用额度 | 约¥15/月起 | 隧道与中继混合多协议出海 | 180Mbps (平稳够用) | ⭐⭐⭐⭐ (日常油管 1080P/4K 解锁) | 通用订阅支持 | 暂无优惠码 | [选型对比](/vpn/accelerator) · 适合轻度需求 |
 | **Nexitally** | 高端定制，无公开免费试用 | 约¥60/月起 (高端旗舰) | 高级专线与多线接入 | 850Mbps (高吞吐旗舰) | ⭐⭐⭐⭐⭐ (全流媒体全地区解锁) | 全生态高级协议 | 暂无优惠码 | [高端评测](/recommend/best) · 极客与团队首选 |
@@ -433,7 +433,7 @@ description: 2026年全网最深度的免费科学上网节点与公共代理池
     </div>
     <div class="affiliate-action">
       <span class="coupon-tag">专属优惠码：AMM</span>
-      <a href="https://gsaff.pages.dev/#/?code=keqgvT5Y" class="aff-btn" target="_blank" rel="nofollow sponsored noopener">直达官网免费试用 &rarr;</a>
+      <a href="https://sahude.gsyvipaff.com/#/?code=keqgvT5Y" class="aff-btn" target="_blank" rel="nofollow sponsored noopener">直达官网免费试用 &rarr;</a>
     </div>
   </div>
 
@@ -471,7 +471,7 @@ description: 2026年全网最深度的免费科学上网节点与公共代理池
     </div>
     <div class="affiliate-action">
       <span class="coupon-tag">专属优惠码：flycat888</span>
-      <a href="https://feimaoaff.feimao666.cc/#/?code=1vA8F1V4" class="aff-btn" target="_blank" rel="nofollow sponsored noopener">直达官网免费试用 &rarr;</a>
+      <a href="https://guangs.flycataff.com/#/?code=6uq0Xe9y" class="aff-btn" target="_blank" rel="nofollow sponsored noopener">直达官网免费试用 &rarr;</a>
     </div>
   </div>
 
@@ -489,7 +489,7 @@ description: 2026年全网最深度的免费科学上网节点与公共代理池
     </div>
     <div class="affiliate-action">
       <span class="coupon-tag">专属优惠码：dly888</span>
-      <a href="https://dlyaff.dalaoaff.com/#/?code=R6UQk0U7" class="aff-btn" target="_blank" rel="nofollow sponsored noopener">直达官网选购套餐 &rarr;</a>
+      <a href="https://qwerty.dalaoyunaff.com/#/?code=jCPLmoWN" class="aff-btn" target="_blank" rel="nofollow sponsored noopener">直达官网选购套餐 &rarr;</a>
     </div>
   </div>
 
@@ -508,7 +508,7 @@ description: 2026年全网最深度的免费科学上网节点与公共代理池
     </div>
     <div class="affiliate-action">
       <span class="coupon-tag">结账9折优惠码：flat888</span>
-      <a href="https://wfaff.weifengaff.com/#/?code=j9sDqD7D" class="aff-btn" target="_blank" rel="nofollow sponsored noopener">直达官网选购套餐 &rarr;</a>
+      <a href="https://edp01.breezenetaff.com/#/?code=t3huofyI" class="aff-btn" target="_blank" rel="nofollow sponsored noopener">直达官网选购套餐 &rarr;</a>
     </div>
   </div>
 </div>

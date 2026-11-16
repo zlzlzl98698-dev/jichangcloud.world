@@ -156,16 +156,16 @@ description: 2026年最深度的网络工具技术剖析：从OSI七层模型、
 
 | 机场服务商 | 线路与网络架构 | 客户端协议支持 | 入门套餐与价格 | 晚高峰实测带宽 | 4K/8K视频秒开延迟 | 流媒体与 AI 解锁评级 | 适用主力场景 | 专属优惠码 | 深度评测与官方通道 |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| **光速云** | 企业级双专线 (IEPL+内网专线) | VLESS (Reality) / Shadowsocks | ¥8/月 (年付99) 另有147永久套餐 | 529Mbps (峰值稳定) | 22ms (秒开不转圈) | ⭐⭐⭐⭐⭐ (全面原生解锁 ChatGPT/Claude/Netflix) | **综合综合第一 · 极致稳定** | `AMM` | [深度评测](/recommend/best) · <a href="https://gsaff.pages.dev/#/?code=keqgvT5Y" target="_blank" rel="nofollow sponsored noopener">直达官网选购</a> |
+| **光速云** | 企业级双专线 (IEPL+内网专线) | VLESS (Reality) / Shadowsocks | ¥8/月 (年付99) 另有147永久套餐 | 529Mbps (峰值稳定) | 22ms (秒开不转圈) | ⭐⭐⭐⭐⭐ (全面原生解锁 ChatGPT/Claude/Netflix) | **综合综合第一 · 极致稳定** | `AMM` | [深度评测](/recommend/best) · <a href="https://sahude.gsyvipaff.com/#/?code=keqgvT5Y" target="_blank" rel="nofollow sponsored noopener">直达官网选购</a> |
 | **暮光加速** | BGP智能调度专线级出口 | Shadowsocks / Trojan / 通用订阅 | ¥20/月 (120GB) | 800Mbps+ (超大带宽) | 28ms (超低抖动) | ⭐⭐⭐⭐⭐ (全平台解锁/不限设备在线) | **全家多设备 · 影音发烧** | `muguang5555` | [深度评测](/recommend/stable) · <a href="https://varnexa.twilightaff.com/#/?code=D1LHglg3" target="_blank" rel="nofollow sponsored noopener">直达官网选购</a> |
-| **飞猫云** | 隧道中转 + 亚太骨干优化 | **提供自研客户端 (下载即用免配置)** | ¥7/月（年付84） | 200Mbps (稳定充沛) | 45ms (日常极速) | ⭐⭐⭐⭐⭐ (支持主流流媒体与日常外网) | **零基础初学者 · 一键直连** | `flycat888` | [深度评测](/recommend/ranking) · <a href="https://feimaoaff.feimao666.cc/#/?code=1vA8F1V4" target="_blank" rel="nofollow sponsored noopener">直达官网选购</a> |
-| **微风网络** | BGP 多线智能中转出口 | Shadowsocks / VMess (全节点x1倍率)| ¥7/月起 | 300Mbps (三网优化) | 35ms (智能路由最优) | ⭐⭐⭐⭐⭐ (透明计费/ChatGPT秒开) | **高性价比 · 理性消费首选** | `flat888` | [深度评测](/recommend/cost-effective) · <a href="https://wfaff.weifengaff.com/#/?code=j9sDqD7D" target="_blank" rel="nofollow sponsored noopener">直达官网选购</a> |
-| **大佬云** | 高速中继优化线路 | Shadowsocks 标准订阅 | ¥5.6/月 (60GB) | 200Mbps (轻度极佳) | 50ms (日常网页秒开) | ⭐⭐⭐⭐ (日常网页与查资料秒开) | **学生党轻度 · 双梯防失联** | `dly888` | [深度评测](/recommend/cheap) · <a href="https://dlyaff.dalaoaff.com/#/?code=R6UQk0U7" target="_blank" rel="nofollow sponsored noopener">直达官网选购</a> |
-| **星岛梦** | 专线中转出口 | Shadowsocks / Trojan | ¥18/月起 | 500Mbps (多并发稳定) | 30ms (港台极速响应) | ⭐⭐⭐⭐⭐ (独家流量不限时/不过期) | **低频长期备用 · 差旅办公** | `nmw888` | [深度评测](/recommend/best) · <a href="https://xdmaff.xdrr.xyz/#/?code=2rX3q05u" target="_blank" rel="nofollow sponsored noopener">直达官网选购</a> |
-| **唯兔云** | 优化隧道中转 | Trojan / VMess 通用订阅 | ¥9.9/月 | 150Mbps (平稳可靠) | 40ms (差旅办公充沛) | ⭐⭐⭐⭐ (界面清爽/节点在线率高) | **差旅移动办公 · 平价轻量** | `weitu888` | [深度评测](/recommend/ranking) · <a href="https://wtaff.weituaff.com/#/?code=3V3qM" target="_blank" rel="nofollow sponsored noopener">直达官网选购</a> |
-| **无忧链接** | 企业级隧道中转 (秒级容灾) | Shadowsocks / VLESS | ¥12/月 | 300Mbps (低丢包) | 35ms (日韩香港极速) | ⭐⭐⭐⭐⭐ (高可用多活冗余架构) | **海外社媒运营 · 晚高峰保障**| `wuyou888` | [深度评测](/recommend/best) · <a href="https://wyaff.wuyouaff.com/#/?code=7Y2uK" target="_blank" rel="nofollow sponsored noopener">直达官网选购</a> |
-| **Firefly** | 物理直连 IEPL 专线 | Shadowsocks 2022 | ¥15/月 | 500Mbps (原生解锁) | 25ms (电竞级极低延迟)| ⭐⭐⭐⭐⭐ (游戏优化专线/Full Cone支持) | **外服电竞联机 · 游戏玩家** | `firefly888` | [深度评测](/recommend/stable) · <a href="https://ffaff.fireflyaff.com/#/?code=8U1iP" target="_blank" rel="nofollow sponsored noopener">直达官网选购</a> |
-| **宇宙云** | 混合专线 + 全球多国落地 | 全协议通用支持 | ¥16/月 | 800Mbps (超大带宽) | 40ms (多国节点丰富) | ⭐⭐⭐⭐ (多国原生纯净IP支持) | **跨境多国运营 · 跨国协同** | `yuzhou888` | [深度评测](/recommend/cost-effective) · <a href="https://yzaff.yuzhouaff.com/#/?code=4T9wL" target="_blank" rel="nofollow sponsored noopener">直达官网选购</a> |
+| **飞猫云** | 隧道中转 + 亚太骨干优化 | **提供自研客户端 (下载即用免配置)** | ¥7/月（年付84） | 200Mbps (稳定充沛) | 45ms (日常极速) | ⭐⭐⭐⭐⭐ (支持主流流媒体与日常外网) | **零基础初学者 · 一键直连** | `flycat888` | [深度评测](/recommend/ranking) · <a href="https://guangs.flycataff.com/#/?code=6uq0Xe9y" target="_blank" rel="nofollow sponsored noopener">直达官网选购</a> |
+| **微风网络** | BGP 多线智能中转出口 | Shadowsocks / VMess (全节点x1倍率)| ¥7/月起 | 300Mbps (三网优化) | 35ms (智能路由最优) | ⭐⭐⭐⭐⭐ (透明计费/ChatGPT秒开) | **高性价比 · 理性消费首选** | `flat888` | [深度评测](/recommend/cost-effective) · <a href="https://edp01.breezenetaff.com/#/?code=t3huofyI" target="_blank" rel="nofollow sponsored noopener">直达官网选购</a> |
+| **大佬云** | 高速中继优化线路 | Shadowsocks 标准订阅 | ¥5.6/月 (60GB) | 200Mbps (轻度极佳) | 50ms (日常网页秒开) | ⭐⭐⭐⭐ (日常网页与查资料秒开) | **学生党轻度 · 双梯防失联** | `dly888` | [深度评测](/recommend/cheap) · <a href="https://qwerty.dalaoyunaff.com/#/?code=jCPLmoWN" target="_blank" rel="nofollow sponsored noopener">直达官网选购</a> |
+| **星岛梦** | 专线中转出口 | Shadowsocks / Trojan | ¥18/月起 | 500Mbps (多并发稳定) | 30ms (港台极速响应) | ⭐⭐⭐⭐⭐ (独家流量不限时/不过期) | **低频长期备用 · 差旅办公** | `nmw888` | [深度评测](/recommend/best) · <a href="https://guangs.xingdaomeng.com/#/?code=1TynBYnR" target="_blank" rel="nofollow sponsored noopener">直达官网选购</a> |
+| **唯兔云** | 优化隧道中转 | Trojan / VMess 通用订阅 | ¥9.9/月 | 150Mbps (平稳可靠) | 40ms (差旅办公充沛) | ⭐⭐⭐⭐ (界面清爽/节点在线率高) | **差旅移动办公 · 平价轻量** | `weitu888` | [深度评测](/recommend/ranking) · <a href="https://guangs.v2yunvipaff.com/#/?code=xIutqOBA" target="_blank" rel="nofollow sponsored noopener">直达官网选购</a> |
+| **无忧链接** | 企业级隧道中转 (秒级容灾) | Shadowsocks / VLESS | ¥12/月 | 300Mbps (低丢包) | 35ms (日韩香港极速) | ⭐⭐⭐⭐⭐ (高可用多活冗余架构) | **海外社媒运营 · 晚高峰保障**| `wuyou888` | [深度评测](/recommend/best) · <a href="https://wep01.worryfreeaff.com/#/?code=4ZoSbLdL" target="_blank" rel="nofollow sponsored noopener">直达官网选购</a> |
+| **Firefly** | 物理直连 IEPL 专线 | Shadowsocks 2022 | ¥15/月 | 500Mbps (原生解锁) | 25ms (电竞级极低延迟)| ⭐⭐⭐⭐⭐ (游戏优化专线/Full Cone支持) | **外服电竞联机 · 游戏玩家** | `firefly888` | [深度评测](/recommend/stable) · <a href="https://vip02.fireflyaff.com/#/?code=2n7VURre" target="_blank" rel="nofollow sponsored noopener">直达官网选购</a> |
+| **宇宙云** | 混合专线 + 全球多国落地 | 全协议通用支持 | ¥16/月 | 800Mbps (超大带宽) | 40ms (多国节点丰富) | ⭐⭐⭐⭐ (多国原生纯净IP支持) | **跨境多国运营 · 跨国协同** | `yuzhou888` | [深度评测](/recommend/cost-effective) · <a href="https://wzjc.yuzoucloud.cc/#/?code=yrThwMP1" target="_blank" rel="nofollow sponsored noopener">直达官网选购</a> |
 
 ---
 
@@ -291,7 +291,7 @@ description: 2026年最深度的网络工具技术剖析：从OSI七层模型、
     </div>
     <div class="affiliate-action">
       <span class="coupon-tag">专属优惠码：AMM</span>
-      <a href="https://gsaff.pages.dev/#/?code=keqgvT5Y" class="aff-btn" target="_blank" rel="nofollow sponsored noopener">直达官网选购套餐 &rarr;</a>
+      <a href="https://sahude.gsyvipaff.com/#/?code=keqgvT5Y" class="aff-btn" target="_blank" rel="nofollow sponsored noopener">直达官网选购套餐 &rarr;</a>
     </div>
   </div>
 
@@ -329,7 +329,7 @@ description: 2026年最深度的网络工具技术剖析：从OSI七层模型、
     </div>
     <div class="affiliate-action">
       <span class="coupon-tag">专属优惠码：flycat888</span>
-      <a href="https://feimaoaff.feimao666.cc/#/?code=1vA8F1V4" class="aff-btn" target="_blank" rel="nofollow sponsored noopener">直达官网选购套餐 &rarr;</a>
+      <a href="https://guangs.flycataff.com/#/?code=6uq0Xe9y" class="aff-btn" target="_blank" rel="nofollow sponsored noopener">直达官网选购套餐 &rarr;</a>
     </div>
   </div>
 
@@ -348,7 +348,7 @@ description: 2026年最深度的网络工具技术剖析：从OSI七层模型、
     </div>
     <div class="affiliate-action">
       <span class="coupon-tag">专属优惠码：dly888</span>
-      <a href="https://dlyaff.dalaoaff.com/#/?code=R6UQk0U7" class="aff-btn" target="_blank" rel="nofollow sponsored noopener">直达官网选购套餐 &rarr;</a>
+      <a href="https://qwerty.dalaoyunaff.com/#/?code=jCPLmoWN" class="aff-btn" target="_blank" rel="nofollow sponsored noopener">直达官网选购套餐 &rarr;</a>
     </div>
   </div>
 
@@ -367,7 +367,7 @@ description: 2026年最深度的网络工具技术剖析：从OSI七层模型、
     </div>
     <div class="affiliate-action">
       <span class="coupon-tag">结账9折优惠码：flat888</span>
-      <a href="https://wfaff.weifengaff.com/#/?code=j9sDqD7D" class="aff-btn" target="_blank" rel="nofollow sponsored noopener">直达官网选购套餐 &rarr;</a>
+      <a href="https://edp01.breezenetaff.com/#/?code=t3huofyI" class="aff-btn" target="_blank" rel="nofollow sponsored noopener">直达官网选购套餐 &rarr;</a>
     </div>
   </div>
 </div>

@@ -531,7 +531,7 @@ description: 2026年全网最系统、最完备的科学上网与机场核心 FA
     </div>
     <div class="affiliate-action">
       <span class="coupon-tag">专属优惠码：AMM</span>
-      <a href="https://gsaff.pages.dev/#/?code=keqgvT5Y" class="aff-btn" target="_blank" rel="nofollow sponsored noopener">直达官网选购套餐 &rarr;</a>
+      <a href="https://sahude.gsyvipaff.com/#/?code=keqgvT5Y" class="aff-btn" target="_blank" rel="nofollow sponsored noopener">直达官网选购套餐 &rarr;</a>
     </div>
   </div>
 
@@ -569,7 +569,7 @@ description: 2026年全网最系统、最完备的科学上网与机场核心 FA
     </div>
     <div class="affiliate-action">
       <span class="coupon-tag">专属优惠码：flycat888</span>
-      <a href="https://feimaoaff.feimao666.cc/#/?code=1vA8F1V4" class="aff-btn" target="_blank" rel="nofollow sponsored noopener">直达官网选购套餐 &rarr;</a>
+      <a href="https://guangs.flycataff.com/#/?code=6uq0Xe9y" class="aff-btn" target="_blank" rel="nofollow sponsored noopener">直达官网选购套餐 &rarr;</a>
     </div>
   </div>
 
@@ -587,7 +587,7 @@ description: 2026年全网最系统、最完备的科学上网与机场核心 FA
     </div>
     <div class="affiliate-action">
       <span class="coupon-tag">专属优惠码：dly888</span>
-      <a href="https://dlyaff.dalaoaff.com/#/?code=R6UQk0U7" class="aff-btn" target="_blank" rel="nofollow sponsored noopener">直达官网选购套餐 &rarr;</a>
+      <a href="https://qwerty.dalaoyunaff.com/#/?code=jCPLmoWN" class="aff-btn" target="_blank" rel="nofollow sponsored noopener">直达官网选购套餐 &rarr;</a>
     </div>
   </div>
 
@@ -606,7 +606,7 @@ description: 2026年全网最系统、最完备的科学上网与机场核心 FA
     </div>
     <div class="affiliate-action">
       <span class="coupon-tag">结账9折优惠码：flat888</span>
-      <a href="https://wfaff.weifengaff.com/#/?code=j9sDqD7D" class="aff-btn" target="_blank" rel="nofollow sponsored noopener">直达官网选购套餐 &rarr;</a>
+      <a href="https://edp01.breezenetaff.com/#/?code=t3huofyI" class="aff-btn" target="_blank" rel="nofollow sponsored noopener">直达官网选购套餐 &rarr;</a>
     </div>
   </div>
 </div>

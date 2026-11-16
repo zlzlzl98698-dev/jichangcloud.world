@@ -133,16 +133,16 @@ description: 深度评测2026年手机端最佳科学上网方案：iOS Shadowro
 
 | 机场品牌 | 线路与架构特点 | 移动端支持协议 | 入门价格与套餐 | 5G蜂窝网络实测延迟 | 移动端客户端兼容度 | 设备限制与并发 | 晚高峰下行带宽 | 专属优惠码 | 移动端真实测试场景 | 深度指南与官方通道 |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| **光速云** | 企业级双专线 (IEPL+内网) | VLESS (Reality) / Shadowsocks | ¥8/月 (年付99) 另有147永久套餐 | 香港 22ms / 日本 38ms | 全兼容 (小火箭/Stash/CMFA) | ⭐⭐⭐⭐⭐ (5台设备不限速) | 529Mbps (4K极速秒开) | `AMM` | 地铁高铁高速移动测试 | [深度评测](/recommend/best) · <a href="https://gsaff.pages.dev/#/?code=keqgvT5Y" target="_blank" rel="nofollow sponsored noopener">直达官网选购</a> |
+| **光速云** | 企业级双专线 (IEPL+内网) | VLESS (Reality) / Shadowsocks | ¥8/月 (年付99) 另有147永久套餐 | 香港 22ms / 日本 38ms | 全兼容 (小火箭/Stash/CMFA) | ⭐⭐⭐⭐⭐ (5台设备不限速) | 529Mbps (4K极速秒开) | `AMM` | 地铁高铁高速移动测试 | [深度评测](/recommend/best) · <a href="https://sahude.gsyvipaff.com/#/?code=keqgvT5Y" target="_blank" rel="nofollow sponsored noopener">直达官网选购</a> |
 | **暮光加速** | BGP智能调度专线级出口 | Shadowsocks / Trojan | ¥20/月 (120GB) | 香港 28ms / 新加坡 45ms | 支持全平台通用订阅 | ⭐⭐⭐⭐⭐ (不限设备在线) | 800Mbps+ (极低抖动) | `muguang5555` | 移动基站压力实测 | [深度评测](/recommend/stable) · <a href="https://varnexa.twilightaff.com/#/?code=D1LHglg3" target="_blank" rel="nofollow sponsored noopener">直达官网选购</a> |
-| **飞猫云** | 隧道中转 + 亚太骨干优化 | 自研客户端免配置 / 通用订阅 | ¥7/月（年付84） | 亚太主流 45ms 左右 | **自研 Android / iOS 客户端**| ⭐⭐⭐⭐⭐ (一键傻瓜直连) | 200Mbps (稳定流畅) | `flycat888` | 客户端安装包测试 | [深度评测](/recommend/ranking) · <a href="https://feimaoaff.feimao666.cc/#/?code=1vA8F1V4" target="_blank" rel="nofollow sponsored noopener">直达官网选购</a> |
-| **微风网络** | BGP 多线智能中转出口 | Shadowsocks / VMess | ¥7/月起 | 亚太平均 35ms~50ms | 支持标准通用订阅 | ⭐⭐⭐⭐⭐ (全节点x1倍率) | 300Mbps (三网优化) | `flat888` | 电信联通双卡实测 | [深度评测](/recommend/cost-effective) · <a href="https://wfaff.weifengaff.com/#/?code=j9sDqD7D" target="_blank" rel="nofollow sponsored noopener">直达官网选购</a> |
-| **大佬云** | 高速中继优化线路 | Shadowsocks | ¥5.6/月 (60GB) | 亚太主流 50ms 左右 | 支持通用订阅导入 | ⭐⭐⭐⭐ (日常网页秒开) | 200Mbps (极低门槛) | `dly888` | 移动数据漫游测试 | [深度评测](/recommend/cheap) · <a href="https://dlyaff.dalaoaff.com/#/?code=R6UQk0U7" target="_blank" rel="nofollow sponsored noopener">直达官网选购</a> |
-| **星岛梦** | 专线中转出口 | Shadowsocks / Trojan | ¥18/月起 | 香港 30ms / 台湾 45ms | 支持标准通用订阅 | ⭐⭐⭐⭐⭐ (流量永久不过期) | 500Mbps (多设备并发) | `nmw888` | 不限时套餐测试 | [深度评测](/recommend/best) · <a href="https://xdmaff.xdrr.xyz/#/?code=2rX3q05u" target="_blank" rel="nofollow sponsored noopener">直达官网选购</a> |
-| **唯兔云** | 优化隧道中转 | Trojan / VMess | ¥9.9/月 | 亚太热门 40ms 左右 | 支持标准通用订阅 | ⭐⭐⭐⭐ (界面清爽) | 150Mbps (差旅应急) | `weitu888` | 官方公告板核验 | [深度评测](/recommend/ranking) · <a href="https://wtaff.weituaff.com/#/?code=3V3qM" target="_blank" rel="nofollow sponsored noopener">直达官网选购</a> |
-| **无忧链接** | 企业级隧道中转 | Shadowsocks / VLESS | ¥12/月 | 港台日韩 35ms 左右 | 支持通用订阅导入 | ⭐⭐⭐⭐⭐ (秒级故障切换) | 300Mbps (低丢包) | `wuyou888` | 节点轮询台账 | [深度评测](/recommend/best) · <a href="https://wyaff.wuyouaff.com/#/?code=7Y2uK" target="_blank" rel="nofollow sponsored noopener">直达官网选购</a> |
-| **Firefly** | IEPL 专线节点 | Shadowsocks 2022 | ¥15/月 | 港日美主力 25ms~45ms | 支持标准通用订阅 | ⭐⭐⭐⭐⭐ (游戏超低延迟) | 500Mbps (原生解锁) | `firefly888` | 移动电竞延迟实测 | [深度评测](/recommend/stable) · <a href="https://ffaff.fireflyaff.com/#/?code=8U1iP" target="_blank" rel="nofollow sponsored noopener">直达官网选购</a> |
-| **宇宙云** | 混合专线+中转 | 全协议支持 | ¥16/月 | 全球 30+ 国家节点 | 支持全协议通用订阅 | ⭐⭐⭐⭐ (多国IP纯净) | 800Mbps (多店铺运营) | `yuzhou888` | 拓扑监控数据 | [深度评测](/recommend/cost-effective) · <a href="https://yzaff.yuzhouaff.com/#/?code=4T9wL" target="_blank" rel="nofollow sponsored noopener">直达官网选购</a> |
+| **飞猫云** | 隧道中转 + 亚太骨干优化 | 自研客户端免配置 / 通用订阅 | ¥7/月（年付84） | 亚太主流 45ms 左右 | **自研 Android / iOS 客户端**| ⭐⭐⭐⭐⭐ (一键傻瓜直连) | 200Mbps (稳定流畅) | `flycat888` | 客户端安装包测试 | [深度评测](/recommend/ranking) · <a href="https://guangs.flycataff.com/#/?code=6uq0Xe9y" target="_blank" rel="nofollow sponsored noopener">直达官网选购</a> |
+| **微风网络** | BGP 多线智能中转出口 | Shadowsocks / VMess | ¥7/月起 | 亚太平均 35ms~50ms | 支持标准通用订阅 | ⭐⭐⭐⭐⭐ (全节点x1倍率) | 300Mbps (三网优化) | `flat888` | 电信联通双卡实测 | [深度评测](/recommend/cost-effective) · <a href="https://edp01.breezenetaff.com/#/?code=t3huofyI" target="_blank" rel="nofollow sponsored noopener">直达官网选购</a> |
+| **大佬云** | 高速中继优化线路 | Shadowsocks | ¥5.6/月 (60GB) | 亚太主流 50ms 左右 | 支持通用订阅导入 | ⭐⭐⭐⭐ (日常网页秒开) | 200Mbps (极低门槛) | `dly888` | 移动数据漫游测试 | [深度评测](/recommend/cheap) · <a href="https://qwerty.dalaoyunaff.com/#/?code=jCPLmoWN" target="_blank" rel="nofollow sponsored noopener">直达官网选购</a> |
+| **星岛梦** | 专线中转出口 | Shadowsocks / Trojan | ¥18/月起 | 香港 30ms / 台湾 45ms | 支持标准通用订阅 | ⭐⭐⭐⭐⭐ (流量永久不过期) | 500Mbps (多设备并发) | `nmw888` | 不限时套餐测试 | [深度评测](/recommend/best) · <a href="https://guangs.xingdaomeng.com/#/?code=1TynBYnR" target="_blank" rel="nofollow sponsored noopener">直达官网选购</a> |
+| **唯兔云** | 优化隧道中转 | Trojan / VMess | ¥9.9/月 | 亚太热门 40ms 左右 | 支持标准通用订阅 | ⭐⭐⭐⭐ (界面清爽) | 150Mbps (差旅应急) | `weitu888` | 官方公告板核验 | [深度评测](/recommend/ranking) · <a href="https://guangs.v2yunvipaff.com/#/?code=xIutqOBA" target="_blank" rel="nofollow sponsored noopener">直达官网选购</a> |
+| **无忧链接** | 企业级隧道中转 | Shadowsocks / VLESS | ¥12/月 | 港台日韩 35ms 左右 | 支持通用订阅导入 | ⭐⭐⭐⭐⭐ (秒级故障切换) | 300Mbps (低丢包) | `wuyou888` | 节点轮询台账 | [深度评测](/recommend/best) · <a href="https://wep01.worryfreeaff.com/#/?code=4ZoSbLdL" target="_blank" rel="nofollow sponsored noopener">直达官网选购</a> |
+| **Firefly** | IEPL 专线节点 | Shadowsocks 2022 | ¥15/月 | 港日美主力 25ms~45ms | 支持标准通用订阅 | ⭐⭐⭐⭐⭐ (游戏超低延迟) | 500Mbps (原生解锁) | `firefly888` | 移动电竞延迟实测 | [深度评测](/recommend/stable) · <a href="https://vip02.fireflyaff.com/#/?code=2n7VURre" target="_blank" rel="nofollow sponsored noopener">直达官网选购</a> |
+| **宇宙云** | 混合专线+中转 | 全协议支持 | ¥16/月 | 全球 30+ 国家节点 | 支持全协议通用订阅 | ⭐⭐⭐⭐ (多国IP纯净) | 800Mbps (多店铺运营) | `yuzhou888` | 拓扑监控数据 | [深度评测](/recommend/cost-effective) · <a href="https://wzjc.yuzoucloud.cc/#/?code=yrThwMP1" target="_blank" rel="nofollow sponsored noopener">直达官网选购</a> |
 
 ---
 
@@ -306,7 +306,7 @@ description: 深度评测2026年手机端最佳科学上网方案：iOS Shadowro
     </div>
     <div class="affiliate-action">
       <span class="coupon-tag">专属优惠码：AMM</span>
-      <a href="https://gsaff.pages.dev/#/?code=keqgvT5Y" class="aff-btn" target="_blank" rel="nofollow sponsored noopener">直达官网选购套餐 &rarr;</a>
+      <a href="https://sahude.gsyvipaff.com/#/?code=keqgvT5Y" class="aff-btn" target="_blank" rel="nofollow sponsored noopener">直达官网选购套餐 &rarr;</a>
     </div>
   </div>
 
@@ -344,7 +344,7 @@ description: 深度评测2026年手机端最佳科学上网方案：iOS Shadowro
     </div>
     <div class="affiliate-action">
       <span class="coupon-tag">专属优惠码：flycat888</span>
-      <a href="https://feimaoaff.feimao666.cc/#/?code=1vA8F1V4" class="aff-btn" target="_blank" rel="nofollow sponsored noopener">直达官网选购套餐 &rarr;</a>
+      <a href="https://guangs.flycataff.com/#/?code=6uq0Xe9y" class="aff-btn" target="_blank" rel="nofollow sponsored noopener">直达官网选购套餐 &rarr;</a>
     </div>
   </div>
 
@@ -363,7 +363,7 @@ description: 深度评测2026年手机端最佳科学上网方案：iOS Shadowro
     </div>
     <div class="affiliate-action">
       <span class="coupon-tag">专属优惠码：dly888</span>
-      <a href="https://dlyaff.dalaoaff.com/#/?code=R6UQk0U7" class="aff-btn" target="_blank" rel="nofollow sponsored noopener">直达官网选购套餐 &rarr;</a>
+      <a href="https://qwerty.dalaoyunaff.com/#/?code=jCPLmoWN" class="aff-btn" target="_blank" rel="nofollow sponsored noopener">直达官网选购套餐 &rarr;</a>
     </div>
   </div>
 
@@ -382,7 +382,7 @@ description: 深度评测2026年手机端最佳科学上网方案：iOS Shadowro
     </div>
     <div class="affiliate-action">
       <span class="coupon-tag">结账9折优惠码：flat888</span>
-      <a href="https://wfaff.weifengaff.com/#/?code=j9sDqD7D" class="aff-btn" target="_blank" rel="nofollow sponsored noopener">直达官网选购套餐 &rarr;</a>
+      <a href="https://edp01.breezenetaff.com/#/?code=t3huofyI" class="aff-btn" target="_blank" rel="nofollow sponsored noopener">直达官网选购套餐 &rarr;</a>
     </div>
   </div>
 </div>

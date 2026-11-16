@@ -100,14 +100,14 @@ description: 深度评测2026年在中国大陆真正具备高可用性的VPN与
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | **光速云** | IEPL 物理专线 + 企业内网专线 | VLESS Reality / Shadowsocks | 约¥8/月（年付99） | 69GB~247GB | 港台日新美欧巴 | 529Mbps (香港22ms) | 全节点支持 ChatGPT、Claude、Netflix 4K | `AMM` | 2020年老牌稳定，双专线抗封锁，独家147元永久不过期套餐，高品质首选 | 品牌运行白皮书 | [深度评测](/recommend/best) · <a href="https://sahude.gsyvipaff.com/#/?code=keqgvT5Y" target="_blank" rel="nofollow sponsored noopener">直达官网选购</a> |
 | **暮光加速** | BGP智能调度专线级出口 | Shadowsocks / Trojan | ¥20/月 | 120GB/月 | 覆盖全球主流国家 | 1000Mbps无限制 | 全球流媒体全解锁，不限设备在线数 | `muguang5555` | 晚高峰稳定性极高，7x24小时真人客服支持，适合多人合租与跨国外贸团队 | 监控节点台账 | [深度评测](/recommend/stable) · <a href="https://varnexa.twilightaff.com/#/?code=D1LHglg3" target="_blank" rel="nofollow sponsored noopener">直达官网选购</a> |
-| **飞猫云** | 隧道中转 + 亚太优化 | 自研客户端免配置 | ¥7/月（年付84） | 100GB/月起 | 亚太热门节点齐全 | 200Mbps | 主流流媒体与海外网页秒开 | `flycat888` | 专属自研多端客户端一键即用，完全不需要复杂订阅导入，新手友好 | 客户端版本库 | [深度评测](/recommend/ranking) · <a href="https://feimaoaff.feimao666.cc/#/?code=1vA8F1V4" target="_blank" rel="nofollow sponsored noopener">直达官网选购</a> |
-| **微风网络** | BGP 多线智能中转出口 | Shadowsocks / VMess | ¥7/月起 | 60GB/月起 | 港台日新美英 | 300Mbps | 全节点统一x1倍率，透明计费无套路 | `flat888` | 结账享9折，三网均衡优化，极高性价比理性首选 | 机房测速台账 | [深度评测](/recommend/cost-effective) · <a href="https://wfaff.weifengaff.com/#/?code=j9sDqD7D" target="_blank" rel="nofollow sponsored noopener">直达官网选购</a> |
-| **大佬云** | 高速中继优化线路 | Shadowsocks | ¥5.6/月 | 60GB/月 | 亚太主流节点 | 300Mbps | 日常网页秒开，支持主流 AI | `dly888` | 5.6元全网极低试错成本，轻度日常备用与学生首选 | 财务计费文档 | [深度评测](/recommend/cheap) · <a href="https://dlyaff.dalaoaff.com/#/?code=R6UQk0U7" target="_blank" rel="nofollow sponsored noopener">直达官网选购</a> |
-| **星岛梦** | 专线中转出口 | Shadowsocks / Trojan | ¥18/月起 | 50GB~100GB | 亚太及美洲主力 | 500Mbps | 长期有效不过期，支持多设备并发 | `nmw888` | 2020老牌，独家不限时流量包，一次购买长期使用不过期 | 运营报表 | [深度评测](/recommend/best) · <a href="https://xdmaff.xdrr.xyz/#/?code=2rX3q05u" target="_blank" rel="nofollow sponsored noopener">直达官网选购</a> |
-| **唯兔云** | 优化隧道中转 | Trojan / VMess | ¥9.9/月 | 80GB/月 | 亚太热门主力节点 | 150Mbps | 支持基础网页与流媒体 | `weitu888` | 界面清爽，工单响应速度极快，适合短期应急差旅 | 官方公告板 | [深度评测](/recommend/ranking) · <a href="https://wtaff.weituaff.com/#/?code=3V3qM" target="_blank" rel="nofollow sponsored noopener">直达官网选购</a> |
-| **无忧链接** | 企业级隧道中转 | Shadowsocks / VLESS | ¥12/月 | 80GB/月 | 港台日韩美英 | 300Mbps | 晚高峰低丢包，解锁主流流媒体 | `wuyou888` | 线路负载均衡调度，节点故障秒级自动切换 | 技术架构文档 | [深度评测](/recommend/best) · <a href="https://wyaff.wuyouaff.com/#/?code=7Y2uK" target="_blank" rel="nofollow sponsored noopener">直达官网选购</a> |
-| **Firefly** | IEPL 专线节点 | Shadowsocks 2022 | ¥15/月 | 50GB/月 | 港日美主力节点 | 500Mbps | 全节点原生解锁，超低抖动与低游戏延迟 | `firefly888` | 极简配置，注重国际路由优化与跨境游戏加速 | 监控节点看板 | [深度评测](/recommend/stable) · <a href="https://ffaff.fireflyaff.com/#/?code=8U1iP" target="_blank" rel="nofollow sponsored noopener">直达官网选购</a> |
-| **宇宙云** | 混合专线+中转 | 全协议支持 | ¥16/月 | 150GB/月 | 全球 30+ 热门国家 | 800Mbps | 节点国家丰富，纯净出口 IP | `yuzhou888` | 适合跨境电商多店铺运营与海外社媒多账号管理 | 节点拓扑图 | [深度评测](/recommend/cost-effective) · <a href="https://yzaff.yuzhouaff.com/#/?code=4T9wL" target="_blank" rel="nofollow sponsored noopener">直达官网选购</a> |
+| **飞猫云** | 隧道中转 + 亚太优化 | 自研客户端免配置 | ¥7/月（年付84） | 100GB/月起 | 亚太热门节点齐全 | 200Mbps | 主流流媒体与海外网页秒开 | `flycat888` | 专属自研多端客户端一键即用，完全不需要复杂订阅导入，新手友好 | 客户端版本库 | [深度评测](/recommend/ranking) · <a href="https://guangs.flycataff.com/#/?code=6uq0Xe9y" target="_blank" rel="nofollow sponsored noopener">直达官网选购</a> |
+| **微风网络** | BGP 多线智能中转出口 | Shadowsocks / VMess | ¥7/月起 | 60GB/月起 | 港台日新美英 | 300Mbps | 全节点统一x1倍率，透明计费无套路 | `flat888` | 结账享9折，三网均衡优化，极高性价比理性首选 | 机房测速台账 | [深度评测](/recommend/cost-effective) · <a href="https://edp01.breezenetaff.com/#/?code=t3huofyI" target="_blank" rel="nofollow sponsored noopener">直达官网选购</a> |
+| **大佬云** | 高速中继优化线路 | Shadowsocks | ¥5.6/月 | 60GB/月 | 亚太主流节点 | 300Mbps | 日常网页秒开，支持主流 AI | `dly888` | 5.6元全网极低试错成本，轻度日常备用与学生首选 | 财务计费文档 | [深度评测](/recommend/cheap) · <a href="https://qwerty.dalaoyunaff.com/#/?code=jCPLmoWN" target="_blank" rel="nofollow sponsored noopener">直达官网选购</a> |
+| **星岛梦** | 专线中转出口 | Shadowsocks / Trojan | ¥18/月起 | 50GB~100GB | 亚太及美洲主力 | 500Mbps | 长期有效不过期，支持多设备并发 | `nmw888` | 2020老牌，独家不限时流量包，一次购买长期使用不过期 | 运营报表 | [深度评测](/recommend/best) · <a href="https://guangs.xingdaomeng.com/#/?code=1TynBYnR" target="_blank" rel="nofollow sponsored noopener">直达官网选购</a> |
+| **唯兔云** | 优化隧道中转 | Trojan / VMess | ¥9.9/月 | 80GB/月 | 亚太热门主力节点 | 150Mbps | 支持基础网页与流媒体 | `weitu888` | 界面清爽，工单响应速度极快，适合短期应急差旅 | 官方公告板 | [深度评测](/recommend/ranking) · <a href="https://guangs.v2yunvipaff.com/#/?code=xIutqOBA" target="_blank" rel="nofollow sponsored noopener">直达官网选购</a> |
+| **无忧链接** | 企业级隧道中转 | Shadowsocks / VLESS | ¥12/月 | 80GB/月 | 港台日韩美英 | 300Mbps | 晚高峰低丢包，解锁主流流媒体 | `wuyou888` | 线路负载均衡调度，节点故障秒级自动切换 | 技术架构文档 | [深度评测](/recommend/best) · <a href="https://wep01.worryfreeaff.com/#/?code=4ZoSbLdL" target="_blank" rel="nofollow sponsored noopener">直达官网选购</a> |
+| **Firefly** | IEPL 专线节点 | Shadowsocks 2022 | ¥15/月 | 50GB/月 | 港日美主力节点 | 500Mbps | 全节点原生解锁，超低抖动与低游戏延迟 | `firefly888` | 极简配置，注重国际路由优化与跨境游戏加速 | 监控节点看板 | [深度评测](/recommend/stable) · <a href="https://vip02.fireflyaff.com/#/?code=2n7VURre" target="_blank" rel="nofollow sponsored noopener">直达官网选购</a> |
+| **宇宙云** | 混合专线+中转 | 全协议支持 | ¥16/月 | 150GB/月 | 全球 30+ 热门国家 | 800Mbps | 节点国家丰富，纯净出口 IP | `yuzhou888` | 适合跨境电商多店铺运营与海外社媒多账号管理 | 节点拓扑图 | [深度评测](/recommend/cost-effective) · <a href="https://wzjc.yuzoucloud.cc/#/?code=yrThwMP1" target="_blank" rel="nofollow sponsored noopener">直达官网选购</a> |
 
 ---
 
@@ -323,7 +323,7 @@ description: 深度评测2026年在中国大陆真正具备高可用性的VPN与
     </div>
     <div class="affiliate-action">
       <span class="coupon-tag">专属优惠码：flycat888</span>
-      <a href="https://feimaoaff.feimao666.cc/#/?code=1vA8F1V4" class="aff-btn" target="_blank" rel="nofollow sponsored noopener">直达官网选购套餐 &rarr;</a>
+      <a href="https://guangs.flycataff.com/#/?code=6uq0Xe9y" class="aff-btn" target="_blank" rel="nofollow sponsored noopener">直达官网选购套餐 &rarr;</a>
     </div>
   </div>
 
@@ -342,7 +342,7 @@ description: 深度评测2026年在中国大陆真正具备高可用性的VPN与
     </div>
     <div class="affiliate-action">
       <span class="coupon-tag">结账9折优惠码：flat888</span>
-      <a href="https://wfaff.weifengaff.com/#/?code=j9sDqD7D" class="aff-btn" target="_blank" rel="nofollow sponsored noopener">直达官网选购套餐 &rarr;</a>
+      <a href="https://edp01.breezenetaff.com/#/?code=t3huofyI" class="aff-btn" target="_blank" rel="nofollow sponsored noopener">直达官网选购套餐 &rarr;</a>
     </div>
   </div>
 </div>
