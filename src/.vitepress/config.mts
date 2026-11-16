@@ -1,6 +1,6 @@
 import { defineConfig } from 'vitepress';
 import { BRANDS } from '../data/brands';
-import { getFaqSchema } from './schemaHelper';
+import { getFaqSchema, getBreadcrumbSchema } from './schemaHelper';
 
 export default defineConfig({
   title: '机场cloud',
@@ -8,6 +8,26 @@ export default defineConfig({
   cleanUrls: true,
   sitemap: {
     hostname: 'https://jichangcloud.world'
+  },
+  markdown: {
+    config: (md) => {
+      const defaultRender = md.renderer.rules.link_open || function(tokens, idx, options, env, self) {
+        return self.renderToken(tokens, idx, options);
+      };
+
+      md.renderer.rules.link_open = (tokens, idx, options, env, self) => {
+        const hrefIndex = tokens[idx].attrIndex('href');
+        if (hrefIndex >= 0) {
+          const href = tokens[idx].attrs[hrefIndex][1];
+          // For any external link, enforce SEO risk control: target="_blank" and rel="nofollow sponsored noopener"
+          if (/^https?:\/\//i.test(href) && !href.includes('jichangcloud.world')) {
+            tokens[idx].attrSet('target', '_blank');
+            tokens[idx].attrSet('rel', 'nofollow sponsored noopener');
+          }
+        }
+        return defaultRender(tokens, idx, options, env, self);
+      };
+    }
   },
   head: [
     ['link', { rel: 'icon', href: '/avatar.webp' }],
@@ -19,7 +39,30 @@ export default defineConfig({
   ],
   transformHead({ pageData }) {
     const head = [];
-    const url = 'https://jichangcloud.world/' + (pageData.relativePath === 'index.md' ? '' : pageData.relativePath.replace(/\.md$/, ''));
+
+    // 1. Strict Canonical Link Tag (Normalized across cleanUrls)
+    let cleanPath = pageData.relativePath.replace(/\.md$/, '');
+    if (cleanPath === 'index') {
+      cleanPath = '';
+    } else if (cleanPath.endsWith('/index')) {
+      cleanPath = cleanPath.replace(/\/index$/, '/');
+    }
+    const url = `https://jichangcloud.world/${cleanPath}`;
+
+    head.push([
+      'link',
+      { rel: 'canonical', href: url }
+    ]);
+
+    // 2. Schema.org BreadcrumbList microdata
+    const breadcrumbSchema = getBreadcrumbSchema(pageData.relativePath, pageData.title);
+    if (breadcrumbSchema) {
+      head.push([
+        'script',
+        { type: 'application/ld+json' },
+        JSON.stringify(breadcrumbSchema)
+      ]);
+    }
 
     // Global Schema
     if (pageData.relativePath === 'index.md') {

@@ -16,6 +16,86 @@ export function cleanMarkdown(text: string): string {
     .trim();
 }
 
+export interface BreadcrumbItem {
+  '@type': 'ListItem';
+  position: number;
+  name: string;
+  item: string;
+}
+
+export interface BreadcrumbListSchema {
+  '@context': 'https://schema.org';
+  '@type': 'BreadcrumbList';
+  itemListElement: BreadcrumbItem[];
+}
+
+/**
+ * Generates Schema.org BreadcrumbList JSON-LD microdata
+ * based on page route hierarchy.
+ */
+export function getBreadcrumbSchema(relativePath: string, title?: string): BreadcrumbListSchema | null {
+  if (relativePath === 'index.md') return null;
+
+  const SECTION_NAMES: Record<string, string> = {
+    'recommend': '机场推荐',
+    'vpn': 'VPN与加速器',
+    'clash': 'Clash客户端',
+    'resources': '资源与情报',
+    'brands': '42家品牌评测库'
+  };
+
+  const items: BreadcrumbItem[] = [
+    {
+      '@type': 'ListItem',
+      position: 1,
+      name: '首页',
+      item: 'https://jichangcloud.world/'
+    }
+  ];
+
+  const clean = relativePath.replace(/\.md$/, '');
+  const parts = clean.split('/');
+
+  if (parts.length === 1) {
+    items.push({
+      '@type': 'ListItem',
+      position: 2,
+      name: title || parts[0],
+      item: `https://jichangcloud.world/${parts[0]}`
+    });
+  } else if (parts.length === 2) {
+    const [section, page] = parts;
+    const sectionName = SECTION_NAMES[section] || section;
+    const sectionUrl = `https://jichangcloud.world/${section}/`;
+
+    items.push({
+      '@type': 'ListItem',
+      position: 2,
+      name: sectionName,
+      item: sectionUrl
+    });
+
+    if (page !== 'index') {
+      let pageName = title || page;
+      // Strip trailing branding suffixes for clean breadcrumb presentation
+      pageName = pageName.replace(/\s*\|\s*机场cloud.*$/, '').split('：')[0].split(' - ')[0].trim() || pageName;
+
+      items.push({
+        '@type': 'ListItem',
+        position: 3,
+        name: pageName,
+        item: `https://jichangcloud.world/${section}/${page}`
+      });
+    }
+  }
+
+  return {
+    '@context': 'https://schema.org',
+    '@type': 'BreadcrumbList',
+    itemListElement: items
+  };
+}
+
 export interface SchemaQuestion {
   '@type': 'Question';
   name: string;

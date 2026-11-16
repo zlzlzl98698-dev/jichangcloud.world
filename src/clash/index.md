@@ -426,7 +426,7 @@ description: 2026年全网最深度的 Clash 客户端知识总览与操作大�
 ### Q48：软路由 OpenClash 经常导致 DNS 环路（DNS Loop）使全屋断网，该如何规避？
 **答：严禁将 OpenClash 的上游 DNS 指向自身网关 IP（如 127.0.0.1 或 192.168.1.1）。**
 - 在 OpenClash DNS 设置中，将国内 Nameserver 明确绑定为公网公共 DNS（如 223.5.5.5）；
-- 将境外 Fallback DNS 绑定为海外纯净 DoH 地址（如 https://1.1.1.1/dns-query），并勾选“防止 DNS 环路”选项。
+- 将境外 Fallback DNS 绑定为海外纯净 DoH 地址（如 `https://1.1.1.1/dns-query`），并勾选“防止 DNS 环路”选项。
 
 ### Q49：跨多设备出海时，如何利用“自建配置仓库与私人 Gist”实现规则配置秒级多端云同步？
 **答：将自己精心编写的 Merge / Script 补丁上传至 GitHub 私人 Gist 或私人仓库。**
