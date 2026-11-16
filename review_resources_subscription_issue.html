@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>单页面 SEO 内容升级审阅报告 - 订阅链接失效与转换报错解决指南 (/resources/subscription-issue)</title>
+  <style>
+    :root {
+      --primary: #2563eb;
+      --bg: #f8fafc;
+      --card-bg: #ffffff;
+      --border: #e2e8f0;
+      --text: #1e293b;
+      --text-muted: #64748b;
+      --success: #16a34a;
+    }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+      line-height: 1.6;
+      color: var(--text);
+      background-color: var(--bg);
+      margin: 0;
+      padding: 24px;
+    }
+    .container {
+      max-width: 1000px;
+      margin: 0 auto;
+    }
+    .header {
+      background: var(--card-bg);
+      padding: 32px;
+      border-radius: 12px;
+      box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05);
+      margin-bottom: 24px;
+      border: 1px solid var(--border);
+    }
+    .badge {
+      display: inline-block;
+      padding: 4px 12px;
+      border-radius: 9999px;
+      font-size: 14px;
+      font-weight: 600;
+      background: #dbeafe;
+      color: var(--primary);
+      margin-bottom: 12px;
+    }
+    h1 {
+      margin: 0 0 16px 0;
+      font-size: 28px;
+      color: #0f172a;
+    }
+    .meta-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+      gap: 16px;
+      margin-top: 20px;
+    }
+    .meta-item {
+      background: #f1f5f9;
+      padding: 16px;
+      border-radius: 8px;
+    }
+    .meta-label {
+      font-size: 13px;
+      color: var(--text-muted);
+      margin-bottom: 4px;
+    }
+    .meta-value {
+      font-size: 18px;
+      font-weight: bold;
+      color: #0f172a;
+    }
+    .status-pass {
+      color: var(--success);
+    }
+    .preview-frame {
+      width: 100%;
+      height: 900px;
+      border: 1px solid var(--border);
+      border-radius: 12px;
+      background: #ffffff;
+      box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05);
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="header">
+      <span class="badge">Primary Nav ④ 资源与情报 · 第 6 落地页</span>
+      <h1>订阅链接失效与更新报错解决指南 (/resources/subscription-issue)</h1>
+      <div class="meta-grid">
+        <div class="meta-item">
+          <div class="meta-label">纯汉字字符统计 (需 10k-15k)</div>
+          <div class="meta-value status-pass">12572 纯汉字 (达标)</div>
+        </div>
+        <div class="meta-item">
+          <div class="meta-label">VitePress 生产构建</div>
+          <div class="meta-value status-pass">PASSED (Zero Errors)</div>
+        </div>
+        <div class="meta-item">
+          <div class="meta-label">核心排障问答数量</div>
+          <div class="meta-value">52 问 52 答专著级解答</div>
+        </div>
+        <div class="meta-item">
+          <div class="meta-label">标杆自愈机场卡片</div>
+          <div class="meta-value">6 家标杆品牌卡片 + 真实自愈外链</div>
+        </div>
+      </div>
+    </div>
+
+    <h2>生产环境渲染实时预览</h2>
+    <iframe class="preview-frame" src="http://localhost:4173/resources/subscription-issue.html"></iframe>
+  </div>
+</body>
+</html>
